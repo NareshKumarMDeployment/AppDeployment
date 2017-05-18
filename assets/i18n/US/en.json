@@ -1,7 +1,7 @@
 {
   "login": {
-    "title": "Sign in to ng2-admin",
-    "signup_link": "New to ng2-admin? Sign up!",
+    "title": "Please Log In",
+    "signup_link": "Don't have an accoutn? Sign Up",
     "email": "Email",
     "password": "Password",
     "sign_in": "Sign in",
@@ -9,7 +9,9 @@
     "sign_from_app_text": "or Sign in with one click",
     "share_on_facebook": "Share on Facebook",
     "share_on_twitter": "Share on Twitter",
-    "share_on_google_plus": "Share on Google Plus"
+    "share_on_google_plus": "Share on Google Plus",
+        "title2":"Sign Up is Free!!"
+
   },
   "general": {
     "akveo": "Akveo",
@@ -103,5 +105,31 @@
     "simple_pie": "Simple Pie",
     "pie_with_labels": "Pie with labels",
     "donut": "Donut"
+  },
+  "register":{
+    "title":"Sign Up is Free!!",
+    "signIn_link":"Already have an account? Sign in!",
+    "name":"Name*",
+    "email":"Email*",
+    "password":"Password*",
+    "confirm_password":"Confirm  Password",
+    "password_error":"Passwords don't match",
+    "signup":"Sign up",
+    "job_title":"Job Title",
+    "company_name":"Name of Company",
+    "address":"Address",
+    "city":"City",
+    "country":"Country"
+  },
+  "placeHolders":{
+    "email":"Email",
+    "password":"Password",
+    "name":"Full Name",
+    "confirm_password":"Re-Enter Password",
+    "job_title":"Job Title",
+    "company_name":"Name of Company",
+    "address":"Address",
+    "city":"City",
+    "country":"Country"
   }
 }
