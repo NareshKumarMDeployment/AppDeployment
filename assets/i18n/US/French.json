@@ -5,27 +5,26 @@
 		"signUpTitle":"Inscription Gratuite",
 		"loginTitle":"S'identifier",
 		 "companylogo":"assets/Logo ANME Francais.jpg"
-
 	},
 	"register":{
 	"title":"Inscrivez-vous Gratuitement!!",
     "signIn_link":"Vous avez déjà un compte?S'identifier!",
-    "name":"Prénom*",
-    "email":"Email*",
-    "email2":"É-mail secondaire*",
-    "password":"Mot De Passe*",
-    "confirm_password":"Confirmez le mot de passe*",
-    "password_error":"Les mots de passe ne correspondent pas*",
+    "name":"Prénom *",
+    "email":"Email *",
+    "email2":"É-mail secondaire *",
+    "password":"Mot De Passe *",
+    "confirm_password":"Confirmez le mot de passe *",
+    "password_error":"Les mots de passe ne correspondent pas *",
     "signup":"S'inscrire",
-    "job_title":"Profession*",
-    "company_name":"Compagnie*",
-    "address":"Adresse*",
-    "city":"Ville*",
-    "country":"Pays*"
+    "job_title":"Profession *",
+    "company_name":"Compagnie *",
+    "address":"Adresse *",
+    "city":"Ville *",
+    "country":"Pays *"
 	},
     "login": {
     "title": "S'il vous plaît Connectez-vous",
-    "signup_link": " ñ'avez pas de compte? S'inscrire",
+    "signup_link": "ñ'avez pas de compte? S'inscrire",
     "email": "Email",
     "password": "Mot de passe",
     "sign_in": "S'identifier",
@@ -51,17 +50,18 @@
   },
   "forgot_Password":{
     "title":"Mot de passe oublié !!",
-    "email":"Email*",
-    "email2":"Confirmez  e-mail*",
-    "password":"Mot de passe*",
-    "confirm_password":"Confirmez le mot de passe*",
-    "change_password":"Soumettre"
+    "email":"Email *",
+    "email2":"Confirmez  e-mail *",
+    "password":"Mot de passe *",
+    "confirm_password":"Confirmez le mot de passe *",
+    "change_password":"Soumettre",
+    "go_back":"S'identifier!!!"
   },
   "change_password":{
     "title":"réinitialiser le mot de passe",
-    "email":"E-mail secondaire*",
-    "password":"Mot de passe*",
-    "confirm_password":"Confirmez le mot de passe*",
+    "email":"E-mail secondaire *",
+    "password":"Mot de passe *",
+    "confirm_password":"Confirmez le mot de passe *",
     "change_password":"réinitialiser le mot de passe"
   }
 }

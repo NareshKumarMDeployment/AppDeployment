@@ -108,18 +108,18 @@
   "register":{
     "title":"Sign Up is Free!!",
     "signIn_link":"Already have an account? Sign in!",
-    "name":"Name*",
-    "email":"Email*",
-    "email2":"Alternate Email*",
-    "password":"Password*",
-    "confirm_password":"Confirm  Password*",
-    "password_error":"Passwords don't match*",
+    "name":"Name *",
+    "email":"Email *",
+    "email2":"Alternate Email *",
+    "password":"Password *",
+    "confirm_password":"Confirm  Password *",
+    "password_error":"Passwords don't match *",
     "signup":"Sign up",
-    "job_title":"Job Title*",
-    "company_name":"Company*",
-    "address":"Address*",
+    "job_title":"Job Title *",
+    "company_name":"Company *",
+    "address":"Address *",
     "city":"City*",
-    "country":"Country*"
+    "country":"Country  *"
   },
   "placeHolders":{
     "email":"Email",
@@ -143,17 +143,18 @@
   },
   "forgot_Password":{
     "title":"Forgot Password !!",
-    "email":"Email*",
-    "email2":"Confirm Email*",
-    "password":"Password*",
-    "confirm_password":"Confirm Password*",
-    "change_password":"Send"
+    "email":"Email *",
+    "email2":"Confirm Email *",
+    "password":"Password *",
+    "confirm_password":"Confirm Password *",
+    "change_password":"Send",
+    "go_back":"Login!!!"
   },
   "change_password":{
     "title":"Reset Password",
-    "email":"Alternate Email*",
-    "password":"Password*",
-    "confirm_password":"Confirm Password*",
+    "email":"Alternate Email *",
+    "password":"Password *",
+    "confirm_password":"Confirm Password *",
     "change_password":"Reset Password"
   }
 }
