@@ -20,7 +20,7 @@
     },
     "menu": {
       "dashboard": "Dashboard",
-      "editors": "Editors",
+      "admin": "Admin",
       "ck_editor": "CKEditor",
       "components": "Components",
       "tree_view": "Tree View",
@@ -156,5 +156,18 @@
     "password":"Password *",
     "confirm_password":"Confirm Password *",
     "change_password":"Reset Password"
+  },
+  "view_project":{
+    "title":"View Projects",
+    "sub_title":"Access and edit all of your active project",
+    "footer":"100"
+  },
+  "new_project":{
+    "title":"New Project",
+    "sub_title":"Create a new project to submit for a compliance check"
+  },
+  "documentation":{
+    "title":"Documentation",
+    "sub_title":"Information and Resources"
   }
 }
