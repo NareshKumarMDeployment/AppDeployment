@@ -110,7 +110,7 @@
     "signIn_link":"Already have an account? Sign in!",
     "name":"Name *",
     "email":"Email *",
-    "email2":"Alternate Email *",
+    "email2":"Alternate Email*",
     "password":"Password *",
     "confirm_password":"Confirm  Password *",
     "password_error":"Passwords don't match *",
