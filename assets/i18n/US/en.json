@@ -1,7 +1,7 @@
 {
   "login": {
     "title": "Please Log In",
-    "signup_link": "Don't have an account? Sign Up",
+    "signup_link": "Don't have an accoutn? Sign Up",
     "email": "Email",
     "password": "Password",
     "sign_in": "Sign in",
@@ -10,7 +10,8 @@
     "share_on_facebook": "Share on Facebook",
     "share_on_twitter": "Share on Twitter",
     "share_on_google_plus": "Share on Google Plus",
-    "title2":"Sign Up is Free!!"
+        "title2":"Sign Up is Free!!"
+
   },
   "general": {
     "akveo": "Akveo",
@@ -20,7 +21,7 @@
     },
     "menu": {
       "dashboard": "Dashboard",
-      "admin": "Admin",
+      "editors": "Editors",
       "ck_editor": "CKEditor",
       "components": "Components",
       "tree_view": "Tree View",
@@ -108,22 +109,20 @@
   "register":{
     "title":"Sign Up is Free!!",
     "signIn_link":"Already have an account? Sign in!",
-    "name":"Name *",
-    "email":"Email *",
-    "email2":"Alternate Email*",
-    "password":"Password *",
-    "confirm_password":"Confirm  Password *",
-    "password_error":"Passwords don't match *",
+    "name":"Name*",
+    "email":"Email*",
+    "password":"Password*",
+    "confirm_password":"Confirm  Password",
+    "password_error":"Passwords don't match",
     "signup":"Sign up",
-    "job_title":"Job Title *",
-    "company_name":"Company *",
-    "address":"Address *",
-    "city":"City*",
-    "country":"Country  *"
+    "job_title":"Job Title",
+    "company_name":"Name of Company",
+    "address":"Address",
+    "city":"City",
+    "country":"Country"
   },
   "placeHolders":{
     "email":"Email",
-    "email2":"Alternate Email",
     "password":"Password",
     "name":"Full Name",
     "confirm_password":"Re-Enter Password",
@@ -131,67 +130,6 @@
     "company_name":"Name of Company",
     "address":"Address",
     "city":"City",
-    "country":"Country Name",
-    "confirm_email":"Re-Enter Email",
-    "building":"Building",
-    "building_tunis":"Building Tunis",
-    "private_offices":"Private Offices",
-    "tunis":"TUNIS"
-  },
-  "landing":{
-    "title1":"CLIP-Tunisie",
-    "title2":"Welcome to the Building Energy Efficiency Compliance Tool for Tunisia",
-    "signUpTitle":"SIGN UP FOR FREE",
-    "loginTitle":"LOG IN",
-    "companylogo":"assets/Logo-ANME-AI-English.png"
-  },
-  "forgot_Password":{
-    "title":"Forgot Password !!",
-    "email":"Email *",
-    "email2":"Confirm Email *",
-    "password":"Password *",
-    "confirm_password":"Confirm Password *",
-    "change_password":"Send",
-    "go_back":"Login!!!"
-  },
-  "change_password":{
-    "title":"Reset Password",
-    "email":"Alternate Email *",
-    "password":"Password *",
-    "confirm_password":"Confirm Password *",
-    "change_password":"Reset Password"
-  },
-  "view_project":{
-    "title":"View Projects",
-    "sub_title":"Access and edit all of your active project",
-    "footer":"10"
-  },
-  "new_project":{
-    "title":"New Project",
-    "sub_title":"Create a new project to submit for a compliance check"
-  },
-  "documentation":{
-    "title":"Documentation",
-    "sub_title":"Information and Resources"
-  },
-  "tab_titles":{
-    "project_info":"Project Information",
-    "spaces":"Spaces",
-    "envelope":"Envelope",
-    "system_cvca":"System CVCA"
-  },
-  "cretae_project":{
-    "title":"General Building Information",
-    "building_name":"Name of Building",
-    "building_adress":"Address of the Building",
-    "building_type":"Type of Building",
-    "building_location":"Location of building",
-    "floor_count":"Number of floors",
-    "floor":"Floor",
-    "packaged_area":"Packaged Area",
-    "form_of_building":"Form of Building",
-    "orientation":"The orientation of the building",
-    "dimensions":"Dimensions",
-    "area_by_floor":"Area Conditioned by Floor"
+    "country":"Country"
   }
 }
