@@ -162,7 +162,7 @@
     "change_password":"Reset Password"
   },
   "view_project":{
-    "title":"View Projects",
+    "title":"Projects",
     "sub_title":"Access and edit all of your active project",
     "footer":"10"
   },
