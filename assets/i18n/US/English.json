@@ -143,7 +143,7 @@
     "title2":"Welcome to the Building Energy Efficiency Compliance Tool for Tunisia",
     "signUpTitle":"SIGN UP FOR FREE",
     "loginTitle":"LOG IN",
-    "companylogo":"assets/Logo-ANME-AI-English.png"
+    "companylogo":"assets/Logo ANME English.jpg"
   },
   "forgot_Password":{
     "title":"Forgot Password !!",
@@ -178,7 +178,8 @@
     "project_info":"Project Information",
     "spaces":"Spaces",
     "envelope":"Envelope",
-    "system_cvca":"System CVCA"
+    "system_cvca":"System CVCA",
+    "documentation":"Documentation"
   },
   "cretae_project":{
     "title":"General Building Information",
