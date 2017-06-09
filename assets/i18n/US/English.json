@@ -175,16 +175,16 @@
     "sub_title":"Information and Resources"
   },
   "tab_titles":{
-    "project_info":"Project Information",
-    "spaces":"Spaces",
+    "project_info":"Building Shapes",
+    "spaces":"Space/DHW",
     "envelope":"Envelope",
-    "HVACSystem":"HVAC System",
-    "system_cvca":"System CVCA",
+    "HVACSystem":"HVAC System",    
     "documentation":"Documentation"
 
   },
   "create_project":{
     "title":"Building Information",
+    "title2":"Project Details",
     "building_name":"Building name",
     "building_name_default_value":"Building",
     "building_adress":"Building Address",
@@ -203,25 +203,26 @@
     "deg":"deg"
   },
   "envelope_page":{
-    "title":"Constructions of the Building Envelope",
-    "wall_construction":"Construction of the Wall",
-    "south_wall":"South Wall",
+    "title":"Exterior Constructions",
+    "wall_construction":"Wall type",
+    "south_wall":"South wall",
     "north_wall":"North wall",
-    "east_wall":"Wall East",
-    "wall_quest":"Wall Quest",
+    "east_wall":"East wall",
+    "wall_quest":"West wall",
     "roof":"Roof",
     "edit":"Edit",
-    "floor_exhibition":"Exhibition of the Floor",
+    "floor_exhibition":"1st Floor Contact condition",
     "window":"Windows",
-    "conditioned_areas":"(Only for conditioned areas)",
-    "window_wall_ratio":"Window-to-wall ratio",
-    "glazing_area":"Glazing area ",
+    "conditioned_areas":"(Conditioned space ONLY)",
+    "window_wall_ratio":"Window-Wall-Ratio",
+    "glazing_area":"Window Area ",
     "south":"South",
     "north":"North",
     "east":"East",
-    "quest":"Quest",
+    "quest":"West",
     "depth":"depth",
-    "vitrage_type":"Type",
+    "vitrage_type":"Glazing type",
+    "over_hang":"Overhang",
     "fp":"FP",
     "skylight_type":"Type of Skylight",    
     "cover_well_light":"Cover of the Well of Light"
@@ -235,5 +236,17 @@
   "welcome_page":{
     "description":"This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
      "descript":"This tool was developed with the technical and financial support of the MED-ENEC II project." 
-      }
+      },
+ "Tooltip":{
+   "rectangle":"Rectangular",
+   "l_shape":"L-Shape",
+   "t_shape":"T-Shape",
+   "u_shape":"U-Shape",
+   "hexagon":"Hexagon",
+   "octagon":"Octagon",
+   "decagon":"Decagon",
+   "dodecagon":"Dodecagon",
+   "hexadecagon":"Hexadecagon",
+   "octadecagon":"Octadecagon"
+ }
 }    
