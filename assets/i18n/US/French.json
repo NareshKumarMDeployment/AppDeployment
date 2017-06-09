@@ -63,5 +63,44 @@
     "password":"Mot de passe *",
     "confirm_password":"Confirmez le mot de passe *",
     "change_password":"réinitialiser le mot de passe"
-  }
+  },
+  "tab_titles":{
+    "project_info":"Informations sur le projet",
+    "spaces":"Espaces",
+    "envelope":"Enveloppe",
+    "HVACSystem":"Système HVAC"
+  },
+  "create_project":{
+    "title":"Building Information",
+    "building_name":"Building name",
+    "building_name_default_value":"Building",
+    "building_adress":"Building Address",
+    "building_adress_default_value":"Tunis Building",
+    "building_type":"Building type",
+    "building_use":"Building Use",
+    "building_location":"Building location",
+    "floor_count":"Number of floor",
+    "floor":"story",
+    "packaged_area":"Air-conditioned area",
+    "form_of_building":"Building Shape",
+    "orientation":"Building orientation",
+    "floor_height":"Floor-to-Floor Height",
+    "dimensions":"Dimensions",
+    "area_by_floor":"Floor area",
+    "deg":"deg"
+  },
+  "HVACSystem_page":{
+    "header":"Système HVAC",
+    "HVAC_system":"Système HVAC",
+    "heating_point":"Température de consigne de chauffage",
+    "cooling_point":"Température de consigne de refroidissement"
+  },
+  "welcome_page":{
+    "description":"Cet outil CLIP vous permet d'étudier et d'évaluer la performance énergétique de votre projet de construction ainsi que sa conformité à la Réglementation Thermique des Bâtiments Neufs en Tunisie.",
+     "descript":"Cet outil a été développé avec l'appui technique et financier du projet MED-ENEC II." 
+      }
+    
 }
+
+
+

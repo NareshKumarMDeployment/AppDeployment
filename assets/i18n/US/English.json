@@ -163,12 +163,12 @@
   },
   "view_project":{
     "title":"Projects",
-    "sub_title":"Access and edit all of your active project",
+    "sub_title":"Manage all your projects here..",
     "footer":"10"
   },
   "new_project":{
-    "title":"New Project",
-    "sub_title":"Create a new project to submit for a compliance check"
+    "title":"Add New Project",
+    "sub_title":"Submit a new project for a compliance check"
   },
   "documentation":{
     "title":"Documentation",
@@ -178,23 +178,28 @@
     "project_info":"Project Information",
     "spaces":"Spaces",
     "envelope":"Envelope",
+    "HVACSystem":"HVAC System",
     "system_cvca":"System CVCA",
     "documentation":"Documentation"
+
   },
-  "cretae_project":{
-    "title":"General Building Information",
-    "building_name":"Name of Building",
-    "building_adress":"Address of the Building",
-    "building_type":"Type of Building",
-    "building_location":"Location of building",
-    "floor_count":"Number of floors",
-    "floor":"Floors",
-    "packaged_area":"Packaged Area",
-    "form_of_building":"Form of Building",
-    "orientation":"Orientation of the building",
-    "floor_height":"Height of Floor",
+  "create_project":{
+    "title":"Building Information",
+    "building_name":"Building name",
+    "building_name_default_value":"Building",
+    "building_adress":"Building Address",
+    "building_adress_default_value":"Tunis Building",
+    "building_type":"Building type",
+    "building_use":"Building Use",
+    "building_location":"Building location",
+    "floor_count":"Number of floor",
+    "floor":"story",
+    "packaged_area":"Air-conditioned area",
+    "form_of_building":"Building Shape",
+    "orientation":"Building orientation",
+    "floor_height":"Floor-to-Floor Height",
     "dimensions":"Dimensions",
-    "area_by_floor":"Area Conditioned by Floor",
+    "area_by_floor":"Floor area",
     "deg":"deg"
   },
   "envelope_page":{
@@ -220,5 +225,15 @@
     "fp":"FP",
     "skylight_type":"Type of Skylight",    
     "cover_well_light":"Cover of the Well of Light"
-  }
-}
+  },
+  "HVACSystem_page":{
+    "header":"HVAC System",
+    "HVAC_system":"HVAC System",
+    "heating_point":"Heating Setpoint Temperature",
+    "cooling_point":"Cooling Setpoint Temperature"
+  },
+  "welcome_page":{
+    "description":"This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
+     "descript":"This tool was developed with the technical and financial support of the MED-ENEC II project." 
+      }
+}    
