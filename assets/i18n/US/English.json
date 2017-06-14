@@ -248,5 +248,19 @@
    "dodecagon":"Dodecagon",
    "hexadecagon":"Hexadecagon",
    "octadecagon":"Octadecagon"
+ },
+ "space_tab":{
+  "title":"Space Condition",
+  "space_type":"Space Type",
+  "percent_area":"Percent Area (%)",
+  "occupant":"Occupant (m2/person)",
+  "ventilation":"Ventilation (CHM/person)",
+  "lighting":"Lighting (W/m2)",
+  "plug_load":"Plug Load (W/m2)",
+  "space_condition":"Cond. Space",
+  "uncondition_space":"Uncond. Space",
+  "area_percent":"Percent Area Sum",
+  "title2":"Domestic Hot Water System",
+  "air_renewal":"* Air Renewal per Hour"
  }
 }    
