@@ -20,6 +20,9 @@
     },
     "menu": {
       "dashboard": "Dashboard",
+      "projects":"Projects",
+      "document":"Documents",
+      "report":"Report",
       "admin": "Admin",
       "ck_editor": "CKEditor",
       "components": "Components",
@@ -53,8 +56,18 @@
       "external_link": "External Link"
     },
     "created_with": "Created with"
-  },
-  "dashboard": {
+    },
+    "dashboard": {
+    "tablehead":"List Of Projects",
+    "add_new":"Add New Project",
+    "org_name":"Organization Name",
+    "pro_name":"Project Name",
+    "type":"Type",
+    "city":"City",
+    "square_mts":"Square Mts",
+    "last_mod":"Last Modified",
+    "create_date":"Creation Date",
+    "create_by":"Created By",
     "acquisition_channels": "Acquisition Channels",
     "users_by_country": "Users by Country",
     "revenue": "Revenue",
@@ -180,7 +193,6 @@
     "envelope":"Envelope",
     "HVACSystem":"HVAC System",    
     "documentation":"Documentation"
-
   },
   "create_project":{
     "title":"Building Information",
@@ -193,7 +205,7 @@
     "building_use":"Building Use",
     "building_location":"Building location",
     "floor_count":"Number of floor",
-    "floor":"story",
+    "floor":"storey",
     "packaged_area":"Air-conditioned area",
     "form_of_building":"Building Shape",
     "orientation":"Building orientation",
@@ -220,12 +232,17 @@
     "north":"North",
     "east":"East",
     "quest":"West",
-    "depth":"depth",
+    "depth":"(depth)",
     "vitrage_type":"Glazing type",
     "over_hang":"Overhang",
     "fp":"FP",
     "skylight_type":"Type of Skylight",    
-    "cover_well_light":"Cover of the Well of Light"
+    "cover_well_light":"Cover of the Well of Light",
+    "tabtitle1":"South",
+    "tabtitle2":"North",
+    "tabtitle3":"East",
+    "tabtitle4":"West",
+    "tabtitle5":"Glazing Type"
   },
   "HVACSystem_page":{
     "header":"HVAC System",
@@ -235,7 +252,10 @@
   },
   "welcome_page":{
     "description":"This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
-     "descript":"This tool was developed with the technical and financial support of the MED-ENEC II project." 
+     "descript":"This tool was developed with the technical and financial support of the MED-ENEC II project.", 
+     "project_button":"Project",
+     "add_new":"Add New Project",
+     "document":"Documentation"
       },
  "Tooltip":{
    "rectangle":"Rectangular",
@@ -262,5 +282,18 @@
   "area_percent":"Percent Area Sum",
   "title2":"Domestic Hot Water System",
   "air_renewal":"* Air Renewal per Hour"
+ },
+   "newproject":{
+   "savencont":"Save & Continue",
+   "save":"Save As",
+   "submit":"Submit",
+   "clear":"Clear"
+ },
+  "admin_page":{
+    "header":"User Details",
+    "name":"User Name",
+    "email":"Email",
+    "status":"Status",
+    "isadmin":"Is Admin"
  }
-}    
+}  

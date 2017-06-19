@@ -1,16 +1,128 @@
 {
-	"landing":{
-		"title1":"CLIP-Tunisie",
-		"title2":"Bienvenue sur le site de l’Audit Energétique sur Plans des Bâtiments en Tunisie",
-		"signUpTitle":"Inscription Gratuite",
-		"loginTitle":"S'identifier",
-		 "companylogo":"assets/Logo ANME Francais.jpg"
-	},
-	"register":{
-	"title":"Inscrivez-vous Gratuitement!!",
+    "login": {
+    "title": "S'il vous plaît Connectez-vous",
+    "signup_link": "ñ'avez pas de compte? S'inscrire",
+    "email": "É-mail ",
+    "password": "Mot de passe",
+    "sign_in": "S'identifier",
+    "forgot_password": "Mot de passe oublié?",
+    "sign_from_app_text": "ou Connectez-vous avec un seul clic",
+    "share_on_facebook": "Partager sur Facebook",
+    "share_on_twitter": "Partager sur Twitter",
+    "share_on_google_plus": "Share on Google Plus",
+    "title2":"Inscrivez-vous gratuitement!"
+   },
+    "general": {
+    "akveo": "Akveo",
+    "home": "Accueil",
+    "forms": {
+      "option1": "Option 1"
+   },
+    "menu": {
+      "dashboard": "Tableau de bord",
+      "projects":"Projets",
+      "document":"Documents",
+      "report":"Rapport",
+      "admin": "Admin",
+      "ck_editor": "CKéditeur",
+      "components": "Composants",
+      "tree_view": "Vue d'arbre",
+      "charts": "Graphiques",
+      "chartist_js": "Chartist.Js",
+      "ui_features": "Caractéristiques de l'interface utilisateur",
+      "typography": "Typographie",
+      "buttons": "Boutons",
+      "icons": "Icônes",
+      "modals": "Modes",
+      "grid": "la grille",
+      "form_elements": "Éléments de formulaire",
+      "form_inputs": "Formulaire Entrées",
+      "form_layouts": "Dispositions de formulaire",
+      "tables": "les tables",
+      "basic_tables": "Tables de base",
+      "smart_tables": "Tableaux intelligents",
+      "maps": "Cartes",
+      "google_maps": "Google Cartes",
+      "leaflet_maps": "Leaflet Cartes",
+      "bubble_maps": "Bulle Cartes",
+      "line_maps": "Ligne Cartes",
+      "pages": "Pages",
+      "login": "S'identifier",
+      "register": "registre",
+      "menu_level_1": "Menu Niveau 1",
+      "menu_level_1_1": "Menu Niveau 1.1",
+      "menu_level_1_2": "Menu Niveau 1.2",
+      "menu_level_1_2_1": "Menu Niveau 1.2.1",
+      "external_link": "lien externe"
+   },
+    "created_with": "Créé avec"
+   },
+    "dashboard": {
+    "tablehead":"Liste des Projets",
+    "add_new":"Ajouter un Nouveau Projet",
+    "org_name":"Nom de l'organisation",
+    "pro_name":"Nom du Projet",
+    "type":"Type",
+    "city":"Ville",
+    "square_mts":"Mètres carrés",
+    "last_mod":"Dernière modification",
+    "create_date":"Date de création",
+    "create_by":"Créé par",
+    "acquisition_channels": "Canaux d'acquisition",
+    "users_by_country": "Utilisateurs par pays",
+    "revenue": "Revenu",
+    "feed": "Alimentation",
+    "todo_list": "Liste de choses à faire",
+    "calendar": "Calendrier",
+    "new_visits": "Nouvelles visites",
+    "purchases": "Purchases",
+    "active_users": "Achats",
+    "returned": "retourné",
+    "popular_app": {
+      "super_app": "Super App",
+      "most_popular_app": "Les plus populaires App",
+      "total_visits": "Nombre total de visites",
+      "new_visits": "nouvelles visites",
+      "sales": "ventes"
+   },
+    "todo": {
+      "task_todo": "Une tâche à faire ..."
+   },
+    "traffic_chart": {
+      "view_total": "Nombre total de vues"
+    }
+   },
+    "tree_view": {
+    "title": "de base",
+    "programming": "Langage de programmation par paradigme de programmation",
+    "oop": "Programmation orientée objet",
+    "java": "Java",
+    "c_plus_plus": "C++",
+    "c_sharp": "C#",
+    "prototype": "Programmation basée sur le prototype",
+    "java_script": "JavaScript",
+    "coffee_script": "CoffeeScript",
+    "lua": "Lua"
+  },
+    "chart": {
+    "lines": "Lignes",
+    "bars": "Barres",
+    "simple_line_chart": "Graphique de ligne simple",
+    "line_chart": "Tableau de ligne avec zone",
+    "bi_polar_line_chart": "Tableau de ligne bi-polaire avec zone uniquement",
+    "simple_bar_chart": "Graphique à barres simple",
+    "multi_line_labels_bar_chart": "Tableau des barres d'étiquettes multi-lignes",
+    "stacked_bar_chart": "Graphique à barres empilées",
+    "pies_and_donuts": "Pies & Donuts",
+    "simple_pie": "Tarte simple",
+    "pie_with_labels": "Tarte aux étiquettes ",
+    "donut": "Donut"
+  },
+    "register":{
+	  "title":"Inscrivez-vous Gratuitement!!",
     "signIn_link":"Vous avez déjà un compte?S'identifier!",
     "name":"Prénom *",
-    "email":"Email *",
+    "email":"É-mail *",
     "email2":"É-mail secondaire *",
     "password":"Mot De Passe *",
     "confirm_password":"Confirmez le mot de passe *",
@@ -22,21 +134,8 @@
     "city":"Ville *",
     "country":"Pays *"
 	},
-    "login": {
-    "title": "S'il vous plaît Connectez-vous",
-    "signup_link": "ñ'avez pas de compte? S'inscrire",
-    "email": "Email",
-    "password": "Mot de passe",
-    "sign_in": "S'identifier",
-    "forgot_password": "Mot de passe oublié?",
-    "sign_from_app_text": "or Sign in with one click",
-    "share_on_facebook": "Share on Facebook",
-    "share_on_twitter": "Share on Twitter",
-    "share_on_google_plus": "Share on Google Plus",
-    "title2":"Inscrivez-vous gratuitement!"
-  },
   "placeHolders":{
-    "email":"Email",
+    "email":"É-mail ",
     "email2":"E-mail secondaire",
     "password":"Mot de passe",
     "name":"Nom complet",
@@ -46,11 +145,22 @@
     "address":"Adresse",
     "city":"Ville",
     "country":"Nom du pays",
-    "confirm_email":"Re Entrez le courrier électronique"
+    "confirm_email":"Re Entrez le courrier électronique",
+    "building":"Bâtiment",
+    "building_tunis":"Adresse",
+    "private_offices":"Bureaux privés",
+    "tunis":"TUNIS"
   },
-  "forgot_Password":{
+    "landing":{
+		"title1":"CLIP-Tunisie",
+		"title2":"Bienvenue sur le site de l’Audit Energétique sur Plans des Bâtiments en Tunisie",
+		"signUpTitle":"Inscription Gratuite",
+		"loginTitle":"S'identifier",
+		 "companylogo":"assets/Logo ANME Francais.jpg"
+	 },
+    "forgot_Password":{
     "title":"Mot de passe oublié !!",
-    "email":"Email *",
+    "email":"É-mail  *",
     "email2":"Confirmez  e-mail *",
     "password":"Mot de passe *",
     "confirm_password":"Confirmez le mot de passe *",
@@ -59,47 +169,133 @@
   },
   "change_password":{
     "title":"réinitialiser le mot de passe",
-    "email":"E-mail secondaire *",
+    "email":"É-mail secondaire *",
     "password":"Mot de passe *",
     "confirm_password":"Confirmez le mot de passe *",
     "change_password":"réinitialiser le mot de passe"
   },
+   "view_project":{
+    "title":"Projets",
+    "sub_title":"Gérez tous vos projets ici ...",
+    "footer":"10"
+  },
+  "new_project":{
+    "title":"Ajouter Nouveau Projet",
+    "sub_title":"Soumettre un nouveau projet pour un contrôle de conformité"
+  },
+  "documentation":{
+    "title":"Documentation",
+    "sub_title":"Information et Ressources"
+  },
   "tab_titles":{
-    "project_info":"Informations sur le projet",
+    "project_info":"Formes du Bâtiment",
     "spaces":"Espaces",
     "envelope":"Enveloppe",
     "HVACSystem":"Système HVAC"
   },
   "create_project":{
-    "title":"Building Information",
-    "building_name":"Building name",
-    "building_name_default_value":"Building",
-    "building_adress":"Building Address",
-    "building_adress_default_value":"Tunis Building",
-    "building_type":"Building type",
-    "building_use":"Building Use",
-    "building_location":"Building location",
-    "floor_count":"Number of floor",
-    "floor":"story",
-    "packaged_area":"Air-conditioned area",
-    "form_of_building":"Building Shape",
-    "orientation":"Building orientation",
-    "floor_height":"Floor-to-Floor Height",
+    "title":"Informations sur le Bâtiment",
+    "title2":"Détails du projet",
+    "building_name":"Nom du Bâtiment",
+    "building_name_default_value":"Bâtiment",
+    "building_adress":"Adresse du Bâtiment",
+    "building_adress_default_value":"bâtiment Tunis",
+    "building_type":"Type de Bâtiment",
+    "building_use":"Usage du Bâtiment",
+    "building_location":"Emplacement du Bâtiment",
+    "floor_count":"Nombre d'Etage",
+    "floor":"étage",
+    "packaged_area":"Superficie Conditionnée",
+    "form_of_building":"Forme du Bâtiment",
+    "orientation":"I'orientation du bâtiment",
+    "floor_height":"Hauteur de I'Etage",
     "dimensions":"Dimensions",
-    "area_by_floor":"Floor area",
-    "deg":"deg"
+    "area_by_floor":"Superficie Conditionnée par Etage",
+    "deg":"Deg"
+  },
+  "envelope_page":{
+    "title":"Constructions extérieures",
+    "wall_construction":"Construction du Mur",
+    "south_wall":"Mur Sud",
+    "north_wall":"Mur Nord",
+    "east_wall":"Mur Est",
+    "wall_quest":"Mur Ouest",
+    "roof":"Toit",
+    "edit":"Modifier",
+    "floor_exhibition":"Exposition du Plancher",
+    "window":"Windows",
+    "conditioned_areas":"(Espace conditionné SEULEMENT)",
+    "window_wall_ratio":"Ratio fenêtre-mur",
+    "glazing_area":"Zone de fenêtre",
+    "south":"Sud",
+    "north":"Nord",
+    "east":"est",
+    "quest":"Ouest",
+    "depth":"(profondeur)",
+    "vitrage_type":"Type vitrage",
+    "over_hang":"surplomber",
+    "fp":"FP",
+    "skylight_type":"Type de puits de lumière",    
+    "cover_well_light":"Couverture du Puits de Lumière",
+    "tabtitle1":"Sud",
+    "tabtitle2":"Nord",
+    "tabtitle3":"Est",
+    "tabtitle4":"Ouest",
+    "tabtitle5":"Vitrage Type"
   },
   "HVACSystem_page":{
-    "header":"Système HVAC",
-    "HVAC_system":"Système HVAC",
+    "header":"Système CVCA",
+    "HVAC_system":"Système CVCA",
     "heating_point":"Température de consigne de chauffage",
     "cooling_point":"Température de consigne de refroidissement"
   },
   "welcome_page":{
     "description":"Cet outil CLIP vous permet d'étudier et d'évaluer la performance énergétique de votre projet de construction ainsi que sa conformité à la Réglementation Thermique des Bâtiments Neufs en Tunisie.",
-     "descript":"Cet outil a été développé avec l'appui technique et financier du projet MED-ENEC II." 
-      }
-    
+     "descript":"Cet outil a été développé avec l'appui technique et financier du projet MED-ENEC II.",
+     "project_button":"Projet",
+     "add_new":"Ajouter Nouveau Projet",
+     "document":"Documentation"
+  },
+  "Tooltip":{
+   "rectangle":"Rectangulaire",
+   "l_shape":"Forme-L",
+   "t_shape":"Forme-T",
+   "u_shape":"Forme-U",
+   "hexagon":"Hexagone",
+   "octagon":"Octogone",
+   "decagon":"Décagone",
+   "dodecagon":" Dodécagone",
+   "hexadecagon":" Hexadécagone",
+   "octadecagon":"Octadécagone"
+ },
+ "space_tab":{
+  "title":"Espace État",
+  "space_type":"Vocation de I'Espace",
+  "percent_area":"Pourcentage Superficie (%)",
+  "occupant":"Occupation Maximale (m2 / pers.)",
+  "ventilation":"Infiltration* (RAH)",
+  "lighting":"Éclairage (W / m2)",
+  "plug_load":"Équipement (W / m2)",
+  "space_condition":"Climatisé",
+  "uncondition_space":"Non Climatisé",
+  "area_percent":"somme pourcentage superficie",
+  "title2":"Chauffage d'Eau Domestique",
+  "title3":"Type d'Appareil de Chauffage",
+  "air_renewal":"Renouvellement d'Air par Heure"
+ },
+   "newproject":{
+   "savencont":"Enregistrer et continuer",
+   "save":"Enregistrer sous",
+   "submit":"Soumettre",
+   "clear":"Efface"
+ },
+    "admin_page":{
+    "header":"Détails de l'utilisateur",
+    "name":"Nom d'utilisateur",
+    "email":"Email",
+    "status":"Statut",
+    "isadmin":"Est-ce que l'administrateur"
+ }
 }
 
 
