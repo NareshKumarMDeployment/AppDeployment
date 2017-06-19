@@ -10,7 +10,7 @@
     "share_on_facebook": "Share on Facebook",
     "share_on_twitter": "Share on Twitter",
     "share_on_google_plus": "Share on Google Plus",
-    "title2":"Sign Up is Free!!"
+    "title2": "Sign Up is Free!!"
   },
   "general": {
     "akveo": "Akveo",
@@ -20,9 +20,9 @@
     },
     "menu": {
       "dashboard": "Dashboard",
-      "projects":"Projects",
-      "document":"Documents",
-      "report":"Report",
+      "projects": "Projects",
+      "document": "Documents",
+      "report": "Report",
       "admin": "Admin",
       "ck_editor": "CKEditor",
       "components": "Components",
@@ -56,41 +56,18 @@
       "external_link": "External Link"
     },
     "created_with": "Created with"
-    },
-    "dashboard": {
-    "tablehead":"List Of Projects",
-    "add_new":"Add New Project",
-    "org_name":"Organization Name",
-    "pro_name":"Project Name",
-    "type":"Type",
-    "city":"City",
-    "square_mts":"Square Mts",
-    "last_mod":"Last Modified",
-    "create_date":"Creation Date",
-    "create_by":"Created By",
-    "acquisition_channels": "Acquisition Channels",
-    "users_by_country": "Users by Country",
-    "revenue": "Revenue",
-    "feed": "Feed",
-    "todo_list": "To Do List",
-    "calendar": "Calendar",
-    "new_visits": "New Visits",
-    "purchases": "Purchases",
-    "active_users": "Active Users",
-    "returned": "Returned",
-    "popular_app": {
-      "super_app": "Super App",
-      "most_popular_app": "Most Popular App",
-      "total_visits": "Total Visits",
-      "new_visits": "New Visits",
-      "sales": "Sales"
-    },
-    "todo": {
-      "task_todo": "Task to do.."
-    },
-    "traffic_chart": {
-      "view_total": "Views Total"
-    }
+  },
+  "dashboard": {
+    "tablehead": "List Of Projects",
+    "add_new": "Add New Project",
+    "org_name": "Organization Name",
+    "pro_name": "Project Name",
+    "type": "Type",
+    "city": "City",
+    "square_mts": "Square Mts",
+    "last_mod": "Last Modified",
+    "create_date": "Creation Date",
+    "create_by": "Created By"
   },
   "tree_view": {
     "title": "basic",
@@ -118,182 +95,182 @@
     "pie_with_labels": "Pie with labels",
     "donut": "Donut"
   },
-  "register":{
-    "title":"Sign Up is Free!!",
-    "signIn_link":"Already have an account? Sign in!",
-    "name":"Name *",
-    "email":"Email *",
-    "email2":"Alternate Email*",
-    "password":"Password *",
-    "confirm_password":"Confirm  Password *",
-    "password_error":"Passwords don't match *",
-    "signup":"Sign up",
-    "job_title":"Job Title *",
-    "company_name":"Company *",
-    "address":"Address *",
-    "city":"City*",
-    "country":"Country  *"
+  "register": {
+    "title": "Sign Up is Free!!",
+    "signIn_link": "Already have an account? Sign in!",
+    "name": "Name *",
+    "email": "Email *",
+    "email2": "Alternate Email*",
+    "password": "Password *",
+    "confirm_password": "Confirm  Password *",
+    "password_error": "Passwords don't match *",
+    "signup": "Sign up",
+    "job_title": "Job Title *",
+    "company_name": "Company *",
+    "address": "Address *",
+    "city": "City*",
+    "country": "Country  *"
   },
-  "placeHolders":{
-    "email":"Email",
-    "email2":"Alternate Email",
-    "password":"Password",
-    "name":"Full Name",
-    "confirm_password":"Re-Enter Password",
-    "job_title":"Job Title",
-    "company_name":"Name of Company",
-    "address":"Address",
-    "city":"City",
-    "country":"Country Name",
-    "confirm_email":"Re-Enter Email",
-    "building":"Building",
-    "building_tunis":"Address",
-    "private_offices":"Private Offices",
-    "tunis":"TUNIS"
+  "placeHolders": {
+    "email": "Email",
+    "email2": "Alternate Email",
+    "password": "Password",
+    "name": "Full Name",
+    "confirm_password": "Re-Enter Password",
+    "job_title": "Job Title",
+    "company_name": "Name of Company",
+    "address": "Address",
+    "city": "City",
+    "country": "Country Name",
+    "confirm_email": "Re-Enter Email",
+    "building": "Building",
+    "building_tunis": "Address",
+    "private_offices": "Private Offices",
+    "tunis": "TUNIS"
   },
-  "landing":{
-    "title1":"CLIP-Tunisie",
-    "title2":"Welcome to the Building Energy Efficiency Compliance Tool for Tunisia",
-    "signUpTitle":"SIGN UP FOR FREE",
-    "loginTitle":"LOG IN",
-    "companylogo":"assets/Logo ANME English.jpg"
+  "landing": {
+    "title1": "CLIP-Tunisie",
+    "title2": "Welcome to the Building Energy Efficiency Compliance Tool for Tunisia",
+    "signUpTitle": "SIGN UP FOR FREE",
+    "loginTitle": "LOG IN",
+    "companylogo": "assets/Logo ANME English.jpg"
   },
-  "forgot_Password":{
-    "title":"Forgot Password !!",
-    "email":"Email *",
-    "email2":"Confirm Email *",
-    "password":"Password *",
-    "confirm_password":"Confirm Password *",
-    "change_password":"Send",
-    "go_back":"Login!!!"
+  "forgot_Password": {
+    "title": "Forgot Password !!",
+    "email": "Email *",
+    "email2": "Confirm Email *",
+    "password": "Password *",
+    "confirm_password": "Confirm Password *",
+    "change_password": "Send",
+    "go_back": "Login!!!"
   },
-  "change_password":{
-    "title":"Reset Password",
-    "email":"Alternate Email *",
-    "password":"Password *",
-    "confirm_password":"Confirm Password *",
-    "change_password":"Reset Password"
+  "change_password": {
+    "title": "Reset Password",
+    "email": "Alternate Email *",
+    "password": "Password *",
+    "confirm_password": "Confirm Password *",
+    "change_password": "Reset Password"
   },
-  "view_project":{
-    "title":"Projects",
-    "sub_title":"Manage all your projects here..",
-    "footer":"10"
+  "view_project": {
+    "title": "Projects",
+    "sub_title": "Manage all your projects here..",
+    "footer": "10"
   },
-  "new_project":{
-    "title":"Add New Project",
-    "sub_title":"Submit a new project for a compliance check"
+  "new_project": {
+    "title": "Add New Project",
+    "sub_title": "Submit a new project for a compliance check"
   },
-  "documentation":{
-    "title":"Documentation",
-    "sub_title":"Information and Resources"
+  "documentation": {
+    "title": "Documentation",
+    "sub_title": "Information and Resources"
   },
-  "tab_titles":{
-    "project_info":"Building Shapes",
-    "spaces":"Space/DHW",
-    "envelope":"Envelope",
-    "HVACSystem":"HVAC System",    
-    "documentation":"Documentation"
+  "tab_titles": {
+    "project_info": "Building Shapes",
+    "spaces": "Space/DHW",
+    "envelope": "Envelope",
+    "HVACSystem": "HVAC System",
+    "documentation": "Documentation"
   },
-  "create_project":{
-    "title":"Building Information",
-    "title2":"Project Details",
-    "building_name":"Building name",
-    "building_name_default_value":"Building",
-    "building_adress":"Building Address",
-    "building_adress_default_value":"Tunis Building",
-    "building_type":"Building type",
-    "building_use":"Building Use",
-    "building_location":"Building location",
-    "floor_count":"Number of floor",
-    "floor":"storey",
-    "packaged_area":"Air-conditioned area",
-    "form_of_building":"Building Shape",
-    "orientation":"Building orientation",
-    "floor_height":"Floor-to-Floor Height",
-    "dimensions":"Dimensions",
-    "area_by_floor":"Floor area",
-    "deg":"deg"
+  "create_project": {
+    "title": "Building Information",
+    "title2": "Project Details",
+    "building_name": "Building name",
+    "building_name_default_value": "Building",
+    "building_adress": "Building Address",
+    "building_adress_default_value": "Tunis Building",
+    "building_type": "Building type",
+    "building_use": "Building Use",
+    "building_location": "Building location",
+    "floor_count": "Number of floor",
+    "floor": "storey",
+    "packaged_area": "Air-conditioned area",
+    "form_of_building": "Building Shape",
+    "orientation": "Building orientation",
+    "floor_height": "Floor-to-Floor Height",
+    "dimensions": "Dimensions",
+    "area_by_floor": "Floor area",
+    "deg": "deg"
   },
-  "envelope_page":{
-    "title":"Exterior Constructions",
-    "wall_construction":"Wall type",
-    "south_wall":"South wall",
-    "north_wall":"North wall",
-    "east_wall":"East wall",
-    "wall_quest":"West wall",
-    "roof":"Roof",
-    "edit":"Edit",
-    "floor_exhibition":"1st Floor Contact condition",
-    "window":"Windows",
-    "conditioned_areas":"(Conditioned space ONLY)",
-    "window_wall_ratio":"Window-Wall-Ratio",
-    "glazing_area":"Window Area ",
-    "south":"South",
-    "north":"North",
-    "east":"East",
-    "quest":"West",
-    "depth":"(depth)",
-    "vitrage_type":"Glazing type",
-    "over_hang":"Overhang",
-    "fp":"FP",
-    "skylight_type":"Type of Skylight",    
-    "cover_well_light":"Cover of the Well of Light",
-    "tabtitle1":"South",
-    "tabtitle2":"North",
-    "tabtitle3":"East",
-    "tabtitle4":"West",
-    "tabtitle5":"Glazing Type"
+  "envelope_page": {
+    "title": "Exterior Constructions",
+    "wall_construction": "Wall type",
+    "south_wall": "South wall",
+    "north_wall": "North wall",
+    "east_wall": "East wall",
+    "wall_quest": "West wall",
+    "roof": "Roof",
+    "edit": "Edit",
+    "floor_exhibition": "1st Floor Contact condition",
+    "window": "Windows",
+    "conditioned_areas": "(Conditioned space ONLY)",
+    "window_wall_ratio": "Window-Wall-Ratio",
+    "glazing_area": "Window Area ",
+    "south": "South",
+    "north": "North",
+    "east": "East",
+    "quest": "West",
+    "depth": "(depth)",
+    "vitrage_type": "Glazing type",
+    "over_hang": "Overhang",
+    "fp": "FP",
+    "skylight_type": "Type of Skylight",
+    "cover_well_light": "Cover of the Well of Light",
+    "tabtitle1": "South",
+    "tabtitle2": "North",
+    "tabtitle3": "East",
+    "tabtitle4": "West",
+    "tabtitle5": "Glazing Type"
   },
-  "HVACSystem_page":{
-    "header":"HVAC System",
-    "HVAC_system":"HVAC System",
-    "heating_point":"Heating Setpoint Temperature",
-    "cooling_point":"Cooling Setpoint Temperature"
+  "HVACSystem_page": {
+    "header": "HVAC System",
+    "HVAC_system": "HVAC System",
+    "heating_point": "Heating Setpoint Temperature",
+    "cooling_point": "Cooling Setpoint Temperature"
   },
-  "welcome_page":{
-    "description":"This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
-     "descript":"This tool was developed with the technical and financial support of the MED-ENEC II project.", 
-     "project_button":"Project",
-     "add_new":"Add New Project",
-     "document":"Documentation"
-      },
- "Tooltip":{
-   "rectangle":"Rectangular",
-   "l_shape":"L-Shape",
-   "t_shape":"T-Shape",
-   "u_shape":"U-Shape",
-   "hexagon":"Hexagon",
-   "octagon":"Octagon",
-   "decagon":"Decagon",
-   "dodecagon":"Dodecagon",
-   "hexadecagon":"Hexadecagon",
-   "octadecagon":"Octadecagon"
- },
- "space_tab":{
-  "title":"Space Condition",
-  "space_type":"Space Type",
-  "percent_area":"Percent Area (%)",
-  "occupant":"Occupant (m2/person)",
-  "ventilation":"Ventilation (CHM/person)",
-  "lighting":"Lighting (W/m2)",
-  "plug_load":"Plug Load (W/m2)",
-  "space_condition":"Cond. Space",
-  "uncondition_space":"Uncond. Space",
-  "area_percent":"Percent Area Sum",
-  "title2":"Domestic Hot Water System",
-  "air_renewal":"* Air Renewal per Hour"
- },
-   "newproject":{
-   "savencont":"Save & Continue",
-   "save":"Save As",
-   "submit":"Submit",
-   "clear":"Clear"
- },
-  "admin_page":{
-    "header":"User Details",
-    "name":"User Name",
-    "email":"Email",
-    "status":"Status",
-    "isadmin":"Is Admin"
- }
-}  
+  "welcome_page": {
+    "description": "This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
+    "descript": "This tool was developed with the technical and financial support of the MED-ENEC II project.",
+    "project_button": "Project",
+    "add_new": "Add New Project",
+    "document": "Documentation"
+  },
+  "Tooltip": {
+    "rectangle": "Rectangular",
+    "l_shape": "L-Shape",
+    "t_shape": "T-Shape",
+    "u_shape": "U-Shape",
+    "hexagon": "Hexagon",
+    "octagon": "Octagon",
+    "decagon": "Decagon",
+    "dodecagon": "Dodecagon",
+    "hexadecagon": "Hexadecagon",
+    "octadecagon": "Octadecagon"
+  },
+  "space_tab": {
+    "title": "Space Condition",
+    "space_type": "Space Type",
+    "percent_area": "Percent Area (%)",
+    "occupant": "Occupant (m2/person)",
+    "ventilation": "Ventilation (CHM/person)",
+    "lighting": "Lighting (W/m2)",
+    "plug_load": "Plug Load (W/m2)",
+    "space_condition": "Cond. Space",
+    "uncondition_space": "Uncond. Space",
+    "area_percent": "Percent Area Sum",
+    "title2": "Domestic Hot Water System",
+    "air_renewal": "* Air Renewal per Hour"
+  },
+  "newproject": {
+    "savencont": "Save & Continue",
+    "save": "Save As",
+    "submit": "Submit",
+    "clear": "Clear"
+  },
+  "admin_page": {
+    "header": "User Details",
+    "name": "User Name",
+    "email": "Email",
+    "status": "Status",
+    "isadmin": "Is Admin"
+  }
+}
