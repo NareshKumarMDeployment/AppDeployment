@@ -227,6 +227,7 @@
     "heating_point": "Heating Setpoint Temperature",
     "cooling_point": "Cooling Setpoint Temperature"
   },
+
   "welcome_page": {
     "description": "This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
     "descript": "This tool was developed with the technical and financial support of the MED-ENEC II project.",

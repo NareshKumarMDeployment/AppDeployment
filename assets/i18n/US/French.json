@@ -210,7 +210,7 @@
     "orientation":"I'orientation du bâtiment",
     "floor_height":"Hauteur de I'Etage",
     "dimensions":"Dimensions",
-    "area_by_floor":"Superficie Conditionnée par Etage",
+    "area_by_floor":"Surface au Sol",
     "deg":"Deg"
   },
   "envelope_page":{
