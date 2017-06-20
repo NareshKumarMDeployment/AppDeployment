@@ -259,7 +259,8 @@
     "uncondition_space": "Uncond. Space",
     "area_percent": "Percent Area Sum",
     "title2": "Domestic Hot Water System",
-    "air_renewal": "* Air Renewal per Hour"
+    "air_renewal": "* Air Renewal per Hour",
+    "title3":"Domestic Hot Water System"
   },
   "newproject": {
     "savencont": "Save & Continue",
