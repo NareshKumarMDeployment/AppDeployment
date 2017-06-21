@@ -67,7 +67,10 @@
     "square_mts": "Square Mts",
     "last_mod": "Last Modified",
     "create_date": "Creation Date",
-    "create_by": "Created By"
+    "create_by": "Created By",
+    "report":"Report",
+    "view_report":"View Report",
+    "delete":"Delete"
   },
   "tree_view": {
     "title": "basic",

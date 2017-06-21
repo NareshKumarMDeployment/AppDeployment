@@ -59,7 +59,7 @@
    },
     "dashboard": {
     "tablehead":"Liste des Projets",
-    "add_new":"Ajouter un Nouveau Projet",
+    "add_new":"Ajouter Nouveau Projet",
     "org_name":"Nom de l'organisation",
     "pro_name":"Nom du Projet",
     "type":"Type",
@@ -68,29 +68,9 @@
     "last_mod":"Dernière modification",
     "create_date":"Date de création",
     "create_by":"Créé par",
-    "acquisition_channels": "Canaux d'acquisition",
-    "users_by_country": "Utilisateurs par pays",
-    "revenue": "Revenu",
-    "feed": "Alimentation",
-    "todo_list": "Liste de choses à faire",
-    "calendar": "Calendrier",
-    "new_visits": "Nouvelles visites",
-    "purchases": "Purchases",
-    "active_users": "Achats",
-    "returned": "retourné",
-    "popular_app": {
-      "super_app": "Super App",
-      "most_popular_app": "Les plus populaires App",
-      "total_visits": "Nombre total de visites",
-      "new_visits": "nouvelles visites",
-      "sales": "ventes"
-   },
-    "todo": {
-      "task_todo": "Une tâche à faire ..."
-   },
-    "traffic_chart": {
-      "view_total": "Nombre total de vues"
-    }
+    "report":"Rapport",
+    "view_report":"Vue Rapport",
+    "delete":"Effacér"
    },
     "tree_view": {
     "title": "de base",
@@ -233,9 +213,9 @@
     "quest":"Ouest",
     "depth":"(profondeur)",
     "vitrage_type":"Type vitrage",
-    "over_hang":"surplomber",
+    "over_hang":"Surplomb",
     "fp":"FP",
-    "skylight_type":"Type de puits de lumière",    
+    "skylight_type":"Type de Lucarne",    
     "cover_well_light":"Couverture du Puits de Lumière",
     "tabtitle1":"Sud",
     "tabtitle2":"Nord",
@@ -284,10 +264,10 @@
   "air_renewal":"Renouvellement d'Air par Heure"
  },
    "newproject":{
-   "savencont":"Enregistrer et continuer",
-   "save":"Enregistrer sous",
+   "savencont":"Sauver et Continuer",
+   "save":"Sauver Sous",
    "submit":"Soumettre",
-   "clear":"Efface"
+   "clear":"Clair"
  },
     "admin_page":{
     "header":"Détails de l'utilisateur",
