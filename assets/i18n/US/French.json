@@ -183,8 +183,8 @@
     "building_type":"Type de Bâtiment",
     "building_use":"Usage du Bâtiment",
     "building_location":"Emplacement du Bâtiment",
-    "floor_count":"Nombre d'Etage",
-    "floor":"étage",
+    "floor_count":"Nombre de Niveaux",
+    "floor":"Etages",
     "packaged_area":"Superficie Conditionnée",
     "form_of_building":"Forme du Bâtiment",
     "orientation":"I'orientation du bâtiment",
@@ -194,7 +194,7 @@
     "deg":"Deg"
   },
   "envelope_page":{
-    "title":"Constructions extérieures",
+    "title":"Constructions de l'Enveloppe du Bâtiment",
     "wall_construction":"Construction du Mur",
     "south_wall":"Mur Sud",
     "north_wall":"Mur Nord",
@@ -205,17 +205,17 @@
     "floor_exhibition":"Exposition du Plancher",
     "window":"Windows",
     "conditioned_areas":"(Espace conditionné SEULEMENT)",
-    "window_wall_ratio":"Ratio fenêtre-mur",
-    "glazing_area":"Zone de fenêtre",
+    "window_wall_ratio":"Ratio vitrage-mur",
+    "glazing_area":"Surface de vitrage",
     "south":"Sud",
     "north":"Nord",
     "east":"est",
     "quest":"Ouest",
     "depth":"(profondeur)",
-    "vitrage_type":"Type vitrage",
-    "over_hang":"Surplomb",
+    "vitrage_type":"Vitrage type",
+    "over_hang":"Pare soleil",
     "fp":"FP",
-    "skylight_type":"Type de Lucarne",    
+    "skylight_type":"Type de Puits de Lumière",    
     "cover_well_light":"Couverture du Puits de Lumière",
     "tabtitle1":"Sud",
     "tabtitle2":"Nord",
@@ -226,13 +226,13 @@
   "HVACSystem_page":{
     "header":"Système CVCA",
     "HVAC_system":"Système CVCA",
-    "heating_point":"Température de consigne de chauffage",
-    "cooling_point":"Température de consigne de refroidissement"
+    "heating_point":"Température de Consigne de Chauffage",
+    "cooling_point":"Température de Consigne de Refroidissement"
   },
   "welcome_page":{
     "description":"Cet outil CLIP vous permet d'étudier et d'évaluer la performance énergétique de votre projet de construction ainsi que sa conformité à la Réglementation Thermique des Bâtiments Neufs en Tunisie.",
      "descript":"Cet outil a été développé avec l'appui technique et financier du projet MED-ENEC II.",
-     "project_button":"Projet",
+     "project_button":"Projets",
      "add_new":"Ajouter Nouveau Projet",
      "document":"Documentation"
   },
@@ -275,7 +275,12 @@
     "email":"Email",
     "status":"Statut",
     "isadmin":"Est-ce que l'administrateur"
- }
+ },
+    "page_top":{
+    "profile":"Profil",
+    "settings":"Réglage",
+    "signout":"Déconnexion"
+    }
 }
 
 

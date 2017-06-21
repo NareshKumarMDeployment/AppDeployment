@@ -234,7 +234,7 @@
   "welcome_page": {
     "description": "This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
     "descript": "This tool was developed with the technical and financial support of the MED-ENEC II project.",
-    "project_button": "Project",
+    "project_button": "Projects",
     "add_new": "Add New Project",
     "document": "Documentation"
   },
@@ -277,5 +277,10 @@
     "email": "Email",
     "status": "Status",
     "isadmin": "Is Admin"
-  }
+  },
+   "page_top":{
+    "profile":"Profile",
+    "settings":"Settings",
+    "signout":"Sign Out"
+    }
 }
