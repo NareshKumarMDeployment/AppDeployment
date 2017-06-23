@@ -99,7 +99,7 @@
     "donut": "Donut"
   },
     "register":{
-	  "title":"Inscrivez-vous Gratuitement!!",
+    "title":"Inscrivez-vous Gratuitement!!",
     "signIn_link":"Vous avez déjà un compte?S'identifier!",
     "name":"Prénom *",
     "email":"É-mail *",
@@ -113,7 +113,7 @@
     "address":"Adresse *",
     "city":"Ville *",
     "country":"Pays *"
-	},
+  },
   "placeHolders":{
     "email":"É-mail ",
     "email2":"E-mail secondaire",
@@ -132,12 +132,12 @@
     "tunis":"TUNIS"
   },
     "landing":{
-		"title1":"CLIP-Tunisie",
-		"title2":"Bienvenue sur le site de l’Audit Energétique sur Plans des Bâtiments en Tunisie",
-		"signUpTitle":"Inscription Gratuite",
-		"loginTitle":"S'identifier",
-		 "companylogo":"assets/Logo ANME Francais.jpg"
-	 },
+    "title1":"CLIP-Tunisie",
+    "title2":"Bienvenue sur le site de l’Audit Energétique sur Plans des Bâtiments en Tunisie",
+    "signUpTitle":"Inscription Gratuite",
+    "loginTitle":"S'identifier",
+     "companylogo":"assets/Logo ANME Francais.jpg"
+   },
     "forgot_Password":{
     "title":"Mot de passe oublié !!",
     "email":"É-mail  *",
@@ -168,20 +168,20 @@
     "sub_title":"Information et Ressources"
   },
   "tab_titles":{
-    "project_info":"Formes du Bâtiment",
+    "project_info":"Forme du Bâtiment",
     "spaces":"Espaces",
     "envelope":"Enveloppe",
     "HVACSystem":"Système HVAC"
   },
   "create_project":{
-    "title":"Informations sur le Bâtiment",
-    "title2":"Détails du projet",
+    "title":"Informations Générales sur le Projet",
+    "title2":"Détails du Projet",
     "building_name":"Nom du Bâtiment",
     "building_name_default_value":"Bâtiment",
     "building_adress":"Adresse du Bâtiment",
     "building_adress_default_value":"bâtiment Tunis",
     "building_type":"Type de Bâtiment",
-    "building_use":"Usage du Bâtiment",
+    "building_use":"Type du Bâtiment",
     "building_location":"Emplacement du Bâtiment",
     "floor_count":"Nombre de Niveaux",
     "floor":"Etages",
@@ -191,7 +191,7 @@
     "floor_height":"Hauteur de I'Etage",
     "dimensions":"Dimensions",
     "area_by_floor":"Surface au Sol",
-    "deg":"Deg"
+    "deg":"deg"
   },
   "envelope_page":{
     "title":"Constructions de l'Enveloppe du Bâtiment",
@@ -203,16 +203,16 @@
     "roof":"Toit",
     "edit":"Modifier",
     "floor_exhibition":"Exposition du Plancher",
-    "window":"Windows",
-    "conditioned_areas":"(Espace conditionné SEULEMENT)",
-    "window_wall_ratio":"Ratio vitrage-mur",
+    "window":"Fenêtres",
+    "conditioned_areas":"(seulement pour les zones conditionnées)",
+    "window_wall_ratio":"ratio vitrage-mur",
     "glazing_area":"Surface de vitrage",
     "south":"Sud",
     "north":"Nord",
     "east":"est",
     "quest":"Ouest",
     "depth":"(profondeur)",
-    "vitrage_type":"Vitrage type",
+    "vitrage_type":"Vitrage Type",
     "over_hang":"Pare soleil",
     "fp":"FP",
     "skylight_type":"Type de Puits de Lumière",    
@@ -221,13 +221,20 @@
     "tabtitle2":"Nord",
     "tabtitle3":"Est",
     "tabtitle4":"Ouest",
-    "tabtitle5":"Vitrage Type"
+    "tabtitle5":"Vitrage Type",
+    "imagetext":"Description du Facteur de Projection",
+    "editheader":"Constructions"
   },
   "HVACSystem_page":{
     "header":"Système CVCA",
     "HVAC_system":"Système CVCA",
     "heating_point":"Température de Consigne de Chauffage",
-    "cooling_point":"Température de Consigne de Refroidissement"
+    "cooling_point":"Température de Consigne de Refroidissement",
+    "hvacSysImg1": "assets/SplitSystem.jpg",
+    "hvacSysImg2": "assets/ResidentialSystem.jpg",
+    "hvacSysImg3": "assets/FancoilSystem.jpg",
+    "hvacSysImg4": "assets/VavSystem.jpg",
+    "hvacSysImg5": "assets/PackagedVAV.jpg"
   },
   "welcome_page":{
     "description":"Cet outil CLIP vous permet d'étudier et d'évaluer la performance énergétique de votre projet de construction ainsi que sa conformité à la Réglementation Thermique des Bâtiments Neufs en Tunisie.",
@@ -252,10 +259,10 @@
   "title":"Espace État",
   "space_type":"Vocation de I'Espace",
   "percent_area":"Pourcentage Superficie (%)",
-  "occupant":"Occupation Maximale (m2 / pers.)",
+  "occupant":"Occupation Maximale (m2/pers.)",
   "ventilation":"Infiltration* (RAH)",
-  "lighting":"Éclairage (W / m2)",
-  "plug_load":"Équipement (W / m2)",
+  "lighting":"Éclairage (W/m2)",
+  "plug_load":"Équipement (W/m2)",
   "space_condition":"Climatisé",
   "uncondition_space":"Non Climatisé",
   "area_percent":"somme pourcentage superficie",
@@ -264,8 +271,8 @@
   "air_renewal":"Renouvellement d'Air par Heure"
  },
    "newproject":{
-   "savencont":"Sauver et Continuer",
-   "save":"Sauver Sous",
+   "savencont":"Sauvegarder et Continuer",
+   "save":"Sauvegarder  Sous",
    "submit":"Soumettre",
    "clear":"Clair"
  },

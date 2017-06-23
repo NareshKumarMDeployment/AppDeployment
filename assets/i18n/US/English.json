@@ -168,7 +168,7 @@
     "sub_title": "Information and Resources"
   },
   "tab_titles": {
-    "project_info": "Building Shapes",
+    "project_info": "Building Shape",
     "spaces": "Space/DHW",
     "envelope": "Envelope",
     "HVACSystem": "HVAC System",
@@ -185,7 +185,7 @@
     "building_use": "Building Use",
     "building_location": "Building location",
     "floor_count": "Number of floor",
-    "floor": "storey",
+    "floor": "story",
     "packaged_area": "Air-conditioned area",
     "form_of_building": "Building Shape",
     "orientation": "Building orientation",
@@ -222,13 +222,20 @@
     "tabtitle2": "North",
     "tabtitle3": "East",
     "tabtitle4": "West",
-    "tabtitle5": "Glazing Type"
+    "tabtitle5": "Glazing Type",
+    "imagetext": "FP description",
+    "editheader":"Constructions"
   },
   "HVACSystem_page": {
     "header": "HVAC System",
     "HVAC_system": "HVAC System",
     "heating_point": "Heating Setpoint Temperature",
-    "cooling_point": "Cooling Setpoint Temperature"
+    "cooling_point": "Cooling Setpoint Temperature",
+    "hvacSysImg1": "assets/image1.PNG",
+    "hvacSysImg2": "assets/image2.PNG",
+    "hvacSysImg3": "assets/image3.PNG",
+    "hvacSysImg4": "assets/image4.PNG",
+    "hvacSysImg5": "assets/image5.PNG"
   },
 
   "welcome_page": {
