@@ -368,6 +368,18 @@
     "WaterSystem": {
       "Tankless Electric DHW System": "Tankless Electric DHW System",
       "DHW gas tank system": "DHW gas tank system"
+    },"SpaceCond": {
+      "Residence-Salon": "Residence-Salon",
+      "Apartment-House": "Apartment-House",
+      "Dining room": "Dining room",
+      "Cooked" : "Cooked",
+      "Washroom" : "Washroom",
+      "Staircase": "Staircase",
+      "Hall" : "Hall",
+      "Office": "Office",
+      "Hall,Washroom,Staircase and" : "Hall,Washroom,Staircase and",
+      "Hotel-room" : "Hotel-room",
+      "Hospital-Patient Room" : "Hospital-Patient Room"
     }
   },
   "HVACSystem": {
@@ -378,5 +390,8 @@
       "Single Fan System": "Single Fan System",
       "Variable Air Volume Central System":"Variable Air Volume Central System"
     }
+  },
+  "defaultEditDropDown":{
+      "Input layers":"Input layers"
   }
 }
