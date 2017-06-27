@@ -1,5 +1,5 @@
 {
-    "login": {
+  "login": {
     "title": "S'il vous plaît Connectez-vous",
     "signup_link": "ñ'avez pas de compte? S'inscrire",
     "email": "É-mail ",
@@ -10,19 +10,19 @@
     "share_on_facebook": "Partager sur Facebook",
     "share_on_twitter": "Partager sur Twitter",
     "share_on_google_plus": "Share on Google Plus",
-    "title2":"Inscrivez-vous gratuitement!"
-   },
-    "general": {
+    "title2": "Inscrivez-vous gratuitement!"
+  },
+  "general": {
     "akveo": "Akveo",
     "home": "Accueil",
     "forms": {
       "option1": "Option 1"
-   },
+    },
     "menu": {
       "dashboard": "Tableau de bord",
-      "projects":"Projets",
-      "document":"Documents",
-      "report":"Rapport",
+      "projects": "Projets",
+      "document": "Documents",
+      "report": "Rapport",
       "admin": "Admin",
       "ck_editor": "CKéditeur",
       "components": "Composants",
@@ -54,25 +54,25 @@
       "menu_level_1_2": "Menu Niveau 1.2",
       "menu_level_1_2_1": "Menu Niveau 1.2.1",
       "external_link": "lien externe"
-   },
+    },
     "created_with": "Créé avec"
-   },
-    "dashboard": {
-    "tablehead":"Liste des Projets",
-    "add_new":"Ajouter Nouveau Projet",
-    "org_name":"Nom de l'organisation",
-    "pro_name":"Nom du Projet",
-    "type":"Type",
-    "city":"Ville",
-    "square_mts":"Mètres carrés",
-    "last_mod":"Dernière modification",
-    "create_date":"Date de création",
-    "create_by":"Créé par",
-    "report":"Rapport",
-    "view_report":"Vue Rapport",
-    "delete":"Effacér"
-   },
-    "tree_view": {
+  },
+  "dashboard": {
+    "tablehead": "Liste des Projets",
+    "add_new": "Ajouter Nouveau Projet",
+    "org_name": "Nom de l'organisation",
+    "pro_name": "Nom du Projet",
+    "type": "Type",
+    "city": "Ville",
+    "square_mts": "Mètres carrés",
+    "last_mod": "Dernière modification",
+    "create_date": "Date de création",
+    "create_by": "Créé par",
+    "report": "Rapport",
+    "view_report": "Vue Rapport",
+    "delete": "Effacér"
+  },
+  "tree_view": {
     "title": "de base",
     "programming": "Langage de programmation par paradigme de programmation",
     "oop": "Programmation orientée objet",
@@ -84,7 +84,7 @@
     "coffee_script": "CoffeeScript",
     "lua": "Lua"
   },
-    "chart": {
+  "chart": {
     "lines": "Lignes",
     "bars": "Barres",
     "simple_line_chart": "Graphique de ligne simple",
@@ -98,197 +98,284 @@
     "pie_with_labels": "Tarte aux étiquettes ",
     "donut": "Donut"
   },
-    "register":{
-    "title":"Inscrivez-vous Gratuitement!!",
-    "signIn_link":"Vous avez déjà un compte?S'identifier!",
-    "name":"Prénom *",
-    "email":"É-mail *",
-    "email2":"É-mail secondaire *",
-    "password":"Mot De Passe *",
-    "confirm_password":"Confirmez le mot de passe *",
-    "password_error":"Les mots de passe ne correspondent pas *",
-    "signup":"S'inscrire",
-    "job_title":"Profession *",
-    "company_name":"Compagnie *",
-    "address":"Adresse *",
-    "city":"Ville *",
-    "country":"Pays *"
+  "register": {
+    "title": "Inscrivez-vous Gratuitement!!",
+    "signIn_link": "Vous avez déjà un compte?S'identifier!",
+    "name": "Prénom *",
+    "email": "É-mail *",
+    "email2": "É-mail secondaire *",
+    "password": "Mot De Passe *",
+    "confirm_password": "Confirmez le mot de passe *",
+    "password_error": "Les mots de passe ne correspondent pas *",
+    "signup": "S'inscrire",
+    "job_title": "Profession *",
+    "company_name": "Compagnie *",
+    "address": "Adresse *",
+    "city": "Ville *",
+    "country": "Pays *"
   },
-  "placeHolders":{
-    "email":"É-mail ",
-    "email2":"E-mail secondaire",
-    "password":"Mot de passe",
-    "name":"Nom complet",
-    "confirm_password":"Retaper le mot de passe",
-    "job_title":"Profession",
-    "company_name":"Nom de l'entreprise",
-    "address":"Adresse",
-    "city":"Ville",
-    "country":"Nom du pays",
-    "confirm_email":"Re Entrez le courrier électronique",
-    "building":"Bâtiment",
-    "building_tunis":"Adresse",
-    "private_offices":"Bureaux privés",
-    "tunis":"TUNIS"
+  "placeHolders": {
+    "email": "É-mail ",
+    "email2": "E-mail secondaire",
+    "password": "Mot de passe",
+    "name": "Nom complet",
+    "confirm_password": "Retaper le mot de passe",
+    "job_title": "Profession",
+    "company_name": "Nom de l'entreprise",
+    "address": "Adresse",
+    "city": "Ville",
+    "country": "Nom du pays",
+    "confirm_email": "Re Entrez le courrier électronique",
+    "building": "Bâtiment",
+    "building_tunis": "Adresse",
+    "private_offices": "Bureaux privés",
+    "tunis": "TUNIS"
   },
-    "landing":{
-    "title1":"CLIP-Tunisie",
-    "title2":"Bienvenue sur le site de l’Audit Energétique sur Plans des Bâtiments en Tunisie",
-    "signUpTitle":"Inscription Gratuite",
-    "loginTitle":"S'identifier",
-     "companylogo":"assets/Logo ANME Francais.jpg"
-   },
-    "forgot_Password":{
-    "title":"Mot de passe oublié !!",
-    "email":"É-mail  *",
-    "email2":"Confirmez  e-mail *",
-    "password":"Mot de passe *",
-    "confirm_password":"Confirmez le mot de passe *",
-    "change_password":"Soumettre",
-    "go_back":"S'identifier!!!"
+  "landing": {
+    "title1": "CLIP-Tunisie",
+    "title2": "Bienvenue sur le site de l’Audit Energétique sur Plans des Bâtiments en Tunisie",
+    "signUpTitle": "Inscription Gratuite",
+    "loginTitle": "S'identifier",
+    "companylogo": "assets/Logo ANME Francais.jpg"
   },
-  "change_password":{
-    "title":"réinitialiser le mot de passe",
-    "email":"É-mail secondaire *",
-    "password":"Mot de passe *",
-    "confirm_password":"Confirmez le mot de passe *",
-    "change_password":"réinitialiser le mot de passe"
+  "forgot_Password": {
+    "title": "Mot de passe oublié !!",
+    "email": "É-mail  *",
+    "email2": "Confirmez  e-mail *",
+    "password": "Mot de passe *",
+    "confirm_password": "Confirmez le mot de passe *",
+    "change_password": "Soumettre",
+    "go_back": "S'identifier!!!"
   },
-   "view_project":{
-    "title":"Projets",
-    "sub_title":"Gérez tous vos projets ici ...",
-    "footer":"10"
+  "change_password": {
+    "title": "réinitialiser le mot de passe",
+    "email": "É-mail secondaire *",
+    "password": "Mot de passe *",
+    "confirm_password": "Confirmez le mot de passe *",
+    "change_password": "réinitialiser le mot de passe"
   },
-  "new_project":{
-    "title":"Ajouter Nouveau Projet",
-    "sub_title":"Soumettre un nouveau projet pour un contrôle de conformité"
+  "view_project": {
+    "title": "Projets",
+    "sub_title": "Gérez tous vos projets ici ...",
+    "footer": "10"
   },
-  "documentation":{
-    "title":"Documentation",
-    "sub_title":"Information et Ressources"
+  "new_project": {
+    "title": "Ajouter Nouveau Projet",
+    "sub_title": "Soumettre un nouveau projet pour un contrôle de conformité"
   },
-  "tab_titles":{
-    "project_info":"Forme du Bâtiment",
-    "spaces":"Espaces",
-    "envelope":"Enveloppe",
-    "HVACSystem":"Système HVAC"
+  "documentation": {
+    "title": "Documentation",
+    "sub_title": "Information et Ressources"
   },
-  "create_project":{
-    "title":"Informations Générales sur le Projet",
-    "title2":"Détails du Projet",
-    "building_name":"Nom du Bâtiment",
-    "building_name_default_value":"Bâtiment",
-    "building_adress":"Adresse du Bâtiment",
-    "building_adress_default_value":"bâtiment Tunis",
-    "building_type":"Type de Bâtiment",
-    "building_use":"Type du Bâtiment",
-    "building_location":"Emplacement du Bâtiment",
-    "floor_count":"Nombre de Niveaux",
-    "floor":"Etages",
-    "packaged_area":"Superficie Conditionnée",
-    "form_of_building":"Forme du Bâtiment",
-    "orientation":"I'orientation du bâtiment",
-    "floor_height":"Hauteur de I'Etage",
-    "dimensions":"Dimensions",
-    "area_by_floor":"Surface au Sol",
-    "deg":"deg"
+  "tab_titles": {
+    "project_info": "Forme du Bâtiment",
+    "spaces": "Espaces",
+    "envelope": "Enveloppe",
+    "HVACSystem": "Système HVAC"
   },
-  "envelope_page":{
-    "title":"Constructions de l'Enveloppe du Bâtiment",
-    "wall_construction":"Construction du Mur",
-    "south_wall":"Mur Sud",
-    "north_wall":"Mur Nord",
-    "east_wall":"Mur Est",
-    "wall_quest":"Mur Ouest",
-    "roof":"Toit",
-    "edit":"Modifier",
-    "floor_exhibition":"Exposition du Plancher",
-    "window":"Fenêtres",
-    "conditioned_areas":"(seulement pour les zones conditionnées)",
-    "window_wall_ratio":"ratio vitrage-mur",
-    "glazing_area":"Surface de vitrage",
-    "south":"Sud",
-    "north":"Nord",
-    "east":"est",
-    "quest":"Ouest",
-    "depth":"(profondeur)",
-    "vitrage_type":"Vitrage Type",
-    "over_hang":"Pare soleil",
-    "fp":"FP",
-    "skylight_type":"Type de Puits de Lumière",    
-    "cover_well_light":"Couverture du Puits de Lumière",
-    "tabtitle1":"Sud",
-    "tabtitle2":"Nord",
-    "tabtitle3":"Est",
-    "tabtitle4":"Ouest",
-    "tabtitle5":"Vitrage Type",
-    "imagetext":"Description du Facteur de Projection",
-    "editheader":"Constructions"
+  "create_project": {
+    "title": "Informations Générales sur le Projet",
+    "title2": "Détails du Projet",
+    "building_name": "Nom du Bâtiment",
+    "building_name_default_value": "Bâtiment",
+    "building_adress": "Adresse du Bâtiment",
+    "building_adress_default_value": "bâtiment Tunis",
+    "building_type": "Type de Bâtiment",
+    "building_use": "Type du Bâtiment",
+    "building_location": "Emplacement du Bâtiment",
+    "floor_count": "Nombre de Niveaux",
+    "floor": "Etages",
+    "packaged_area": "Superficie Conditionnée",
+    "form_of_building": "Forme du Bâtiment",
+    "orientation": "I'orientation du bâtiment",
+    "floor_height": "Hauteur de I'Etage",
+    "dimensions": "Dimensions",
+    "area_by_floor": "Surface au Sol",
+    "deg": "deg"
   },
-  "HVACSystem_page":{
-    "header":"Système CVCA",
-    "HVAC_system":"Système CVCA",
-    "heating_point":"Température de Consigne de Chauffage",
-    "cooling_point":"Température de Consigne de Refroidissement",
-    "hvacSysImg1": "assets/SplitSystem.jpg",
-    "hvacSysImg2": "assets/ResidentialSystem.jpg",
-    "hvacSysImg3": "assets/FancoilSystem.jpg",
-    "hvacSysImg4": "assets/VavSystem.jpg",
-    "hvacSysImg5": "assets/PackagedVAV.jpg"
+  "envelope_page": {
+    "title": "Constructions de l'Enveloppe du Bâtiment",
+    "wall_construction": "Construction du Mur",
+    "south_wall": "Mur Sud",
+    "north_wall": "Mur Nord",
+    "east_wall": "Mur Est",
+    "wall_quest": "Mur Ouest",
+    "roof": "Toit",
+    "edit": "Modifier",
+    "floor_exhibition": "Exposition du Plancher",
+    "window": "Fenêtres",
+    "conditioned_areas": "(seulement pour les zones conditionnées)",
+    "window_wall_ratio": "ratio vitrage-mur",
+    "glazing_area": "Surface de vitrage",
+    "south": "Sud",
+    "north": "Nord",
+    "east": "est",
+    "quest": "Ouest",
+    "depth": "(profondeur)",
+    "vitrage_type": "Vitrage Type",
+    "over_hang": "Pare soleil",
+    "fp": "FP",
+    "skylight_type": "Type de Puits de Lumière",
+    "cover_well_light": "Couverture du Puits de Lumière",
+    "tabtitle1": "Sud",
+    "tabtitle2": "Nord",
+    "tabtitle3": "Est",
+    "tabtitle4": "Ouest",
+    "tabtitle5": "Vitrage Type",
+    "imagetext": "Description du Facteur de Projection",
+    "editheader": "Constructions",
+    "label1": "Constructions",
+    "label2": "Nouveau nom de la construction",
+    "label3": "Méthode de spécification",
+    "label4": "Rugosité de la Surface",
+    "label5": "couleur extérieure (absorpt.)",
+    "label6": "Couches de la Construction",
+    "label7": "Nouveau nom de la Couche",
+    "label8": "Valeur U",
+    "label9": "couches de matrix ordonnées de l'extérieur vers intérieur",
+    "tabhead1": "Matériau",
+    "tabhead2": "Épaisseur(m)",
+    "tabhead3": "Conductivité(W/m.K)",
+    "tabhead4": "Densité(kg/m3)",
+    "tabhead5": "Chaleur Spécifique",
+    "tabhead6": "Valeur R(m2.K/W)",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "defaultEdit": "couches entrée"
   },
-  "welcome_page":{
-    "description":"Cet outil CLIP vous permet d'étudier et d'évaluer la performance énergétique de votre projet de construction ainsi que sa conformité à la Réglementation Thermique des Bâtiments Neufs en Tunisie.",
-     "descript":"Cet outil a été développé avec l'appui technique et financier du projet MED-ENEC II.",
-     "project_button":"Projets",
-     "add_new":"Ajouter Nouveau Projet",
-     "document":"Documentation"
+  "HVACSystem_page": {
+    "header": "Système CVCA",
+    "HVAC_system": "Système CVCA",
+    "heating_point": "Température de Consigne de Chauffage",
+    "cooling_point": "Température de Consigne de Refroidissement",
+    "hvacSysImg1": "assets/PackagedVAV.jpg",
+    "hvacSysImg2": "assets/SplitSystem.jpg",
+    "hvacSysImg3": "assets/ResidentialSystem.jpg",
+    "hvacSysImg4": "assets/FancoilSystem.jpg",
+    "hvacSysImg5": "assets/VavSystem.jpg"
   },
-  "Tooltip":{
-   "rectangle":"Rectangulaire",
-   "l_shape":"Forme-L",
-   "t_shape":"Forme-T",
-   "u_shape":"Forme-U",
-   "hexagon":"Hexagone",
-   "octagon":"Octogone",
-   "decagon":"Décagone",
-   "dodecagon":" Dodécagone",
-   "hexadecagon":" Hexadécagone",
-   "octadecagon":"Octadécagone"
- },
- "space_tab":{
-  "title":"Espace État",
-  "space_type":"Vocation de I'Espace",
-  "percent_area":"Pourcentage Superficie (%)",
-  "occupant":"Occupation Maximale (m2/pers.)",
-  "ventilation":"Infiltration* (RAH)",
-  "lighting":"Éclairage (W/m2)",
-  "plug_load":"Équipement (W/m2)",
-  "space_condition":"Climatisé",
-  "uncondition_space":"Non Climatisé",
-  "area_percent":"somme pourcentage superficie",
-  "title2":"Chauffage d'Eau Domestique",
-  "title3":"Type d'Appareil de Chauffage",
-  "air_renewal":"Renouvellement d'Air par Heure"
- },
-   "newproject":{
-   "savencont":"Sauvegarder et Continuer",
-   "save":"Sauvegarder  Sous",
-   "submit":"Soumettre",
-   "clear":"Clair"
- },
-    "admin_page":{
-    "header":"Détails de l'utilisateur",
-    "name":"Nom d'utilisateur",
-    "email":"Email",
-    "status":"Statut",
-    "isadmin":"Est-ce que l'administrateur"
- },
-    "page_top":{
-    "profile":"Profil",
-    "settings":"Réglage",
-    "signout":"Déconnexion"
+  "welcome_page": {
+    "description": "Cet outil CLIP vous permet d'étudier et d'évaluer la performance énergétique de votre projet de construction ainsi que sa conformité à la Réglementation Thermique des Bâtiments Neufs en Tunisie.",
+    "descript": "Cet outil a été développé avec l'appui technique et financier du projet MED-ENEC II.",
+    "project_button": "Projets",
+    "add_new": "Ajouter Nouveau Projet",
+    "document": "Documentation"
+  },
+  "Tooltip": {
+    "rectangle": "Rectangulaire",
+    "l_shape": "Forme-L",
+    "t_shape": "Forme-T",
+    "u_shape": "Forme-U",
+    "hexagon": "Hexagone",
+    "octagon": "Octogone",
+    "decagon": "Décagone",
+    "dodecagon": " Dodécagone",
+    "hexadecagon": " Hexadécagone",
+    "octadecagon": "Octadécagone"
+  },
+  "space_tab": {
+    "title": "Espace État",
+    "space_type": "Vocation de I'Espace",
+    "percent_area": "Pourcentage Superficie (%)",
+    "occupant": "Occupation Maximale (m2/pers.)",
+    "ventilation": "Infiltration* (RAH)",
+    "lighting": "Éclairage (W/m2)",
+    "plug_load": "Équipement (W/m2)",
+    "space_condition": "Climatisé",
+    "uncondition_space": "Non Climatisé",
+    "area_percent": "somme pourcentage superficie",
+    "title2": "Chauffage d'Eau Domestique",
+    "title3": "Type d'Appareil de Chauffage",
+    "air_renewal": "Renouvellement d'Air par Heure"
+  },
+  "newproject": {
+    "savencont": "Sauvegarder et Continuer",
+    "save": "Sauvegarder  Sous",
+    "submit": "Soumettre",
+    "clear": "Clair"
+  },
+  "admin_page": {
+    "header": "Détails de l'utilisateur",
+    "name": "Nom d'utilisateur",
+    "email": "Email",
+    "status": "Statut",
+    "isadmin": "Est-ce que l'administrateur"
+  },
+  "page_top": {
+    "profile": "Profil",
+    "settings": "Réglage",
+    "signout": "Déconnexion"
+  },
+  "addNewProject": {
+    "BuildingTypes": {
+      "Villa": "Villa",
+      "Appartment": "Appartement",
+      "Private Offices": "Bureaux Prives",
+      "Public Offices": "Bureaux Publiques",
+      "Hotels, 3 Stars": "Hôtel, 3 Etoiles",
+      "Hotels, 4 Stars": "Hôtel, 4 Etoiles",
+      "Hotels, 5 Stars": "Hôtel, 5 Etoiles",
+      "Private Hospitals": "Hôpital Prive",
+      "Public Hospitals": "Hôpital Publique"
     }
+  },
+  "envelop": {
+    "ConstructionTypes": {
+      "Wall No Insulation": "Mur Pas d'Isolation",
+      "Wall Insulation-Exterior-2cm": "Mur Isolation-Extérieure-2cm",
+      "Wall Insulation-Exterior-4cm": "Mur Isolation-Extérieure-4cm",
+      "Wall Insulation-Exterior-6cm": "Mur Isolation-Extérieure-6cm",
+      "Wall Insulation-Inside-2cm": "Mur Isolation-Intérieure-2cm",
+      "Wall Insulation-Inside-4cm": "Mur Isolation-Intérieure-4cm",
+      "Wall Insulation-Inside-6cm": "Mur Isolation-Intérieure-2cm",
+      "Wall Insulation-medium-2cm": "Mur Isolation-Milieu-2cm",
+      "Wall Insulation-medium-4cm": "Mur Isolation-Milieu-4cm",
+      "Wall Insulation-medium-6cm" : "Mur Isolation-Milieu-6cm"
+    },
+    "RoofTypes": {
+      "Roof No Insulation": "Toit Pas d'Isolation",
+      "Roof Insulation-Exterior-2cm": "Toit Isolation-Extérieure-2cm",
+      "Roof Insulation-Exterior-4cm": "Toit Isolation-Extérieure-4cm",
+      "Roof Insulation-Exterior-6cm": "Toit Isolation-Extérieure-6cm",
+      "Roof Insulation-Inside-2cm": "Toit Isolation-Intérieure-2cm",
+      "Roof Insulation-Inside-4cm": "Toit Isolation-Intérieure-4cm",
+      "Roof Insulation-Inside-6cm": "Toit Isolation-Intérieure-6cm",
+      "Roof Insulation-medium-2cm": "Toit Isolation-Milieu-2cm",
+      "Roof Insulation-medium-4cm": "Toit Isolation-Milieu-4cm",
+      "Roof Insulation-medium-6cm" : "Toit Isolation-Milieu-6cm"
+    },
+    "FloorContactCondition": {
+      "Ground": "Sol",
+      "Air conditioning": "Espace air conditionné",
+      "Non-air conditioning": "Espace non-air conditionné"
+    },
+    "GlazingTypes": {
+      "Single Clear": "Simple Claire",
+      "Single Bronze": "Simple Bronze",
+      "Single low-e": "Simple faible-e",
+      "Double Clear": "Double Claire",
+      "Double Bronze": "Double Bronze",
+      "Double low-e": "Double faible-e"
+    },
+    "SkyLight": {
+      "No": "Aucun",
+      "Dish": "Plat",
+      "Dome": "Dôme"
+    }
+  },
+  "space": {
+    "WaterSystem": {
+      "Tankless Electric DHW System": "Tankless système DHW électrique",
+      "DHW gas tank system": "Réservoir systéme DHW au gaz"
+    }
+  },
+  "HVACSystem": {
+    "HVACSystemTypes": {
+      "Variable Air Volume System": "Système Monobloc Volume d'Air Variable",
+      "Monozone System Direct Relax with Baseboards": "Système Monozone à Dètente Direct avec Plinthes",
+      "Residential System" : "Système Rèsidentiel",
+      "Single Fan System": "Système Ventilateur Unitaire",
+      "Variable Air Volume Central System":"Système Central de Volume d'Air Variable"
+    }
+  }
 }
-
-
-

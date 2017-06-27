@@ -68,9 +68,9 @@
     "last_mod": "Last Modified",
     "create_date": "Creation Date",
     "create_by": "Created By",
-    "report":"Report",
-    "view_report":"View Report",
-    "delete":"Delete"
+    "report": "Report",
+    "view_report": "View Report",
+    "delete": "Delete"
   },
   "tree_view": {
     "title": "basic",
@@ -224,20 +224,37 @@
     "tabtitle4": "West",
     "tabtitle5": "Glazing Type",
     "imagetext": "FP description",
-    "editheader":"Constructions"
+    "editheader": "Constructions",
+    "label1": "Constructions",
+    "label2": "New name of the construction",
+    "label3": "Specification method",
+    "label4": "Surface roughness",
+    "label5": "Exterior color (absorbent)",
+    "label6": "Layers of construction",
+    "label7": "New layer name",
+    "label8": "V-vlaue",
+    "label9": "Layers of matrix ordered from outside to inside",
+    "tabhead1": "Material",
+    "tabhead2": "Thickness(m)",
+    "tabhead3": "Conductivity(W/m.K)",
+    "tabhead4": "Density(kg/m3)",
+    "tabhead5": "Specific heat",
+    "tabhead6": "R Value(m2.K/W)",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "defaultEdit": "Input Layers"
   },
   "HVACSystem_page": {
     "header": "HVAC System",
     "HVAC_system": "HVAC System",
     "heating_point": "Heating Setpoint Temperature",
     "cooling_point": "Cooling Setpoint Temperature",
-    "hvacSysImg1": "assets/image1.PNG",
-    "hvacSysImg2": "assets/image2.PNG",
-    "hvacSysImg3": "assets/image3.PNG",
-    "hvacSysImg4": "assets/image4.PNG",
-    "hvacSysImg5": "assets/image5.PNG"
+    "hvacSysImg1": "assets/image5.PNG",
+    "hvacSysImg2": "assets/image1.PNG",
+    "hvacSysImg3": "assets/image2.PNG",
+    "hvacSysImg4": "assets/image3.PNG",
+    "hvacSysImg5": "assets/image4.PNG"
   },
-
   "welcome_page": {
     "description": "This CLIP tool allows you to study and evaluate the energy performance of your construction project and its compliance with the Thermal Regulation of New Buildings in Tunisia.",
     "descript": "This tool was developed with the technical and financial support of the MED-ENEC II project.",
@@ -270,7 +287,7 @@
     "area_percent": "Percent Area Sum",
     "title2": "Domestic Hot Water System",
     "air_renewal": "* Air Renewal per Hour",
-    "title3":"Domestic Hot Water System"
+    "title3": "Domestic Hot Water System"
   },
   "newproject": {
     "savencont": "Save & Continue",
@@ -285,9 +302,81 @@
     "status": "Status",
     "isadmin": "Is Admin"
   },
-   "page_top":{
-    "profile":"Profile",
-    "settings":"Settings",
-    "signout":"Sign Out"
+  "page_top": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "signout": "Sign Out"
+  },
+  "addNewProject": {
+    "BuildingTypes": {
+      "Villa": "Villa",
+      "Appartment": "Appartment",
+      "Private Offices": "Private Offices",
+      "Public Offices": "Public Offices",
+      "Hotels, 3 Stars": "Hotels, 3 Stars",
+      "Hotels, 4 Stars": "Hotels, 4 Stars",
+      "Hotels, 5 Stars": "Hotels, 5 Stars",
+      "Private Hospitals": "Private Hospitals",
+      "Public Hospitals": "Public Hospitals"
     }
+  },
+  "envelop": {
+    "ConstructionTypes": {
+      "Wall No Insulation": "Wall No Insulation",
+      "Wall Insulation-Exterior-2cm": "Wall Insulation-Exterior-2cm",
+      "Wall Insulation-Exterior-4cm": "Wall Insulation-Exterior-4cm",
+      "Wall Insulation-Exterior-6cm": "Wall Insulation-Exterior-6cm",
+      "Wall Insulation-Inside-2cm": "Wall Insulation-Inside-2cm",
+      "Wall Insulation-Inside-4cm": "Wall Insulation-Inside-4cm",
+      "Wall Insulation-Inside-6cm": "Wall Insulation-Inside-6cm",
+      "Wall Insulation-medium-2cm": "Wall Insulation-medium-2cm",
+      "Wall Insulation-medium-4cm": "Wall Insulation-medium-4cm",
+      "Wall Insulation-medium-6cm" : "Wall Insulation-medium-6cm"
+    },
+    "RoofTypes": {
+      "Roof No Insulation": "Roof No Insulation",
+      "Roof Insulation-Exterior-2cm": "Roof Insulation-Exterior-2cm",
+      "Roof Insulation-Exterior-4cm": "Roof Insulation-Exterior-4cm",
+      "Roof Insulation-Exterior-6cm": "Roof Insulation-Exterior-6cm",
+      "Roof Insulation-Inside-2cm": "Roof Insulation-Inside-2cm",
+      "Roof Insulation-Inside-4cm": "Roof Insulation-Inside-4cm",
+      "Roof Insulation-Inside-6cm": "Roof Insulation-Inside-6cm",
+      "Roof Insulation-medium-2cm": "Roof Insulation-Medium-2cm",
+      "Roof Insulation-medium-4cm": "Roof Insulation-Medium-4cm",
+      "Roof Insulation-medium-6cm" : "Roof Insulation-Medium-6cm"
+    },
+    "FloorContactCondition": {
+      "Ground": "Ground",
+      "Air conditioning": "Air conditioning",
+      "Non-air conditioning": "Non-air conditioning"
+    },
+    "GlazingTypes": {
+      "Single Clear": "Single Clear",
+      "Single Bronze": "Single Bronze",
+      "Single low-e": "Single Low-e",
+      "Double Clear": "Double Clear",
+      "Double Bronze": "Double Bronze",
+      "Double low-e": "Double Low-e"
+    },
+    "SkyLight": {
+      "No": "No",
+      "Dish": "Dish",
+      "Dome": "Dome"
+    }    
+  },
+  "space": {
+    "WaterSystem": {
+      "Tankless Electric DHW System": "Tankless Electric DHW System",
+      "DHW gas tank system": "DHW gas tank system"
+    }
+  },
+  "HVACSystem": {
+    "HVACSystemTypes": {
+      "Variable Air Volume System": "Variable Air Volume System",
+      "Monozone System Direct Relax with Baseboards": "Monozone System Direct Relax with Baseboards",
+      "Residential System" : "Residential System",
+      "Single Fan System": "Single Fan System",
+      "Variable Air Volume Central System":"Variable Air Volume Central System"
+    }
+  }
 }
