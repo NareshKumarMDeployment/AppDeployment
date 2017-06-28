@@ -341,9 +341,9 @@
       "Roof Insulation-Inside-2cm": "Roof Insulation-Inside-2cm",
       "Roof Insulation-Inside-4cm": "Roof Insulation-Inside-4cm",
       "Roof Insulation-Inside-6cm": "Roof Insulation-Inside-6cm",
-      "Roof Insulation-medium-2cm": "Roof Insulation-Medium-2cm",
-      "Roof Insulation-medium-4cm": "Roof Insulation-Medium-4cm",
-      "Roof Insulation-medium-6cm" : "Roof Insulation-Medium-6cm"
+      "Roof Insulation-medium-2cm": "Roof Insulation-medium-2cm",
+      "Roof Insulation-medium-4cm": "Roof Insulation-medium-4cm",
+      "Roof Insulation-medium-6cm" : "Roof Insulation-medium-6cm"
     },
     "FloorContactCondition": {
       "Ground": "Ground",

@@ -171,7 +171,7 @@
     "project_info": "Forme du Bâtiment",
     "spaces": "Espaces",
     "envelope": "Enveloppe",
-    "HVACSystem": "Système HVAC"
+    "HVACSystem": "Système CVCA"
   },
   "envelope_page":{
     "title":"Constructions de l'Enveloppe du Bâtiment",
@@ -214,7 +214,7 @@
     "label8":"Valeur U",
     "label9":"couches de matériaux ordonnées de l'extérieur vers intérieur",
     "tabhead1":"Matériau",
-    "tabhead2":"Épaisseur(m)",
+    "tabhead2":"Epaisseur(m)",
     "tabhead3":"Conductivité(W/m.K)",
     "tabhead4":"Densité(kg/m3)",
     "tabhead5":"Chaleur Spécifique",
@@ -280,7 +280,7 @@
     "occupant": "Occupation Maximale (m2/pers.)",
     "ventilation": "Infiltration* (RAH)",
     "lighting": "Éclairage (W/m2)",
-    "plug_load": "Équipement (W/m2)",
+    "plug_load": "Equipement (W/m2)",
     "space_condition": "Climatisé",
     "uncondition_space": "Non Climatisé",
     "area_percent": "somme pourcentage superficie",
