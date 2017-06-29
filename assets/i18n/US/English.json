@@ -291,9 +291,10 @@
   },
   "newproject": {
     "savencont": "Save & Continue",
-    "save": "Save As",
+    "save_as": "Save As",
     "submit": "Submit",
-    "clear": "Clear"
+    "clear": "Clear",
+    "save":"Save"
   },
   "admin_page": {
     "header": "User Details",
@@ -331,7 +332,8 @@
       "Wall Insulation-Inside-6cm": "Wall Insulation-Inside-6cm",
       "Wall Insulation-medium-2cm": "Wall Insulation-medium-2cm",
       "Wall Insulation-medium-4cm": "Wall Insulation-medium-4cm",
-      "Wall Insulation-medium-6cm" : "Wall Insulation-medium-6cm"
+      "Wall Insulation-medium-6cm" : "Wall Insulation-medium-6cm",
+      "create":"create"
     },
     "RoofTypes": {
       "Roof No Insulation": "Roof No Insulation",
@@ -343,7 +345,8 @@
       "Roof Insulation-Inside-6cm": "Roof Insulation-Inside-6cm",
       "Roof Insulation-medium-2cm": "Roof Insulation-medium-2cm",
       "Roof Insulation-medium-4cm": "Roof Insulation-medium-4cm",
-      "Roof Insulation-medium-6cm" : "Roof Insulation-medium-6cm"
+      "Roof Insulation-medium-6cm" : "Roof Insulation-medium-6cm",
+      "create":"create"
     },
     "FloorContactCondition": {
       "Ground": "Ground",

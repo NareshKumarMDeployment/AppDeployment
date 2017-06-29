@@ -286,13 +286,14 @@
     "area_percent": "somme pourcentage superficie",
     "title2": "Chauffage d'Eau Domestique",
     "title3": "Type d'Appareil de Chauffage",
-    "air_renewal": "Renouvellement d'Air par Heure"
+    "air_renewal": "*Renouvellement d'Air par Heure"
   },
   "newproject": {
     "savencont": "Sauvegarder et Continuer",
-    "save": "Sauvegarder  Sous",
+    "save_as": "Sauvegarder  Sous",
     "submit": "Soumettre",
-    "clear": "Clair"
+    "clear": "Clair",
+    "save":"Sauvegarder"
   },
   "admin_page": {
     "header": "Détails de l'utilisateur",
@@ -368,17 +369,17 @@
       "Tankless Electric DHW System": "Tankless système DHW électrique",
       "DHW gas tank system": "Réservoir systéme DHW au gaz"
     },"SpaceCond": {
-      "Residence-Salon": "Residence-Salon",
-      "Apartment-House": "Apartment-House",
-      "Dining room": "Dining room",
-      "Cooked" : "Cooked",
-      "Washroom" : "Washroom",
-      "Staircase": "Staircase",
+      "Residence-Salon": "Résidence-Salon",
+      "Apartment-House": "Résidence-Chambre",
+      "Dining room": "Salle à manger",
+      "Cooked" : "Cuisine",
+      "Washroom" : "Salle de toilettes",
+      "Staircase": "Escalier",
       "Hall" : "Hall",
-      "Office": "Office",
-      "Hall,Washroom,Staircase and" : "Hall,Washroom,Staircase and",
-      "Hotel-room" : "Hotel-room",
-      "Hospital-Patient Room" : "Hospital-Patient Room"
+      "Office": "Bureau",
+      "Hall,Washroom,Staircase and" : "Hall, Salle de toilettes, Escalier and",
+      "Hotel-room" : "Hôtel-Chambre",
+      "Hospital-Patient Room" : "Hôpital-Chambre de patient"
     }
   },
   "HVACSystem": {
