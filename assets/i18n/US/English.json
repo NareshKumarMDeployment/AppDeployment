@@ -233,12 +233,12 @@
     "label6": "Layers of construction",
     "label7": "New layer name",
     "label8": "V-vlaue",
-    "label9": "Layers of matrix ordered from outside to inside",
+    "label9": "(Layers of matrix ordered from outside to inside)",
     "tabhead1": "Material",
     "tabhead2": "Thickness(m)",
     "tabhead3": "Conductivity(W/m.K)",
     "tabhead4": "Density(kg/m3)",
-    "tabhead5": "Specific heat",
+    "tabhead5": "Specific heat (J/kg.K)",
     "tabhead6": "R Value(m2.K/W)",
     "ok": "OK",
     "cancel": "Cancel",
@@ -291,10 +291,9 @@
   },
   "newproject": {
     "savencont": "Save & Continue",
-    "save_as": "Save As",
+    "save": "Save As",
     "submit": "Submit",
-    "clear": "Clear",
-    "save":"Save"
+    "clear": "Clear"
   },
   "admin_page": {
     "header": "User Details",
@@ -333,7 +332,7 @@
       "Wall Insulation-medium-2cm": "Wall Insulation-medium-2cm",
       "Wall Insulation-medium-4cm": "Wall Insulation-medium-4cm",
       "Wall Insulation-medium-6cm" : "Wall Insulation-medium-6cm",
-      "create":"create"
+      "create":"Create"
     },
     "RoofTypes": {
       "Roof No Insulation": "Roof No Insulation",
@@ -346,7 +345,7 @@
       "Roof Insulation-medium-2cm": "Roof Insulation-medium-2cm",
       "Roof Insulation-medium-4cm": "Roof Insulation-medium-4cm",
       "Roof Insulation-medium-6cm" : "Roof Insulation-medium-6cm",
-      "create":"create"
+      "create":"Create"
     },
     "FloorContactCondition": {
       "Ground": "Ground",
@@ -380,7 +379,7 @@
       "Staircase": "Staircase",
       "Hall" : "Hall",
       "Office": "Office",
-      "Hall,Washroom,Staircase and" : "Hall,Washroom,Staircase and",
+      "Hall,Washroom,Staircase and " : "Hall,Washroom,Staircase and",
       "Hotel-room" : "Hotel-room",
       "Hospital-Patient Room" : "Hospital-Patient Room"
     }
