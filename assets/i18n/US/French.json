@@ -71,7 +71,8 @@
     "report": "Rapport",
     "status":"Statut",
     "view_report": "Vue Rapport",
-    "delete": "Effacér"
+    "delete": "Effacér",
+    "There are no projects yet" : "Il n'y a pas encore de projets"
   },
   "tree_view": {
     "title": "de base",

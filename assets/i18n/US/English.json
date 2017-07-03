@@ -71,7 +71,8 @@
     "report": "Report",
     "status":"Status",
     "view_report": "View Report",
-    "delete": "Delete"
+    "delete": "Delete",
+    "There are no projects yet" : "There are no projects yet"
   },
   "tree_view": {
     "title": "basic",
