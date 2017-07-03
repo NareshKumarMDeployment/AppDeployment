@@ -60,8 +60,8 @@
   "dashboard": {
     "tablehead": "Liste des Projets",
     "add_new": "Ajouter Nouveau Projet",
-    "org_name": "Nom de l'organisation",
-    "pro_name": "Nom du Projet",
+    "org_name": "Nom du Projet",
+    "pro_name": "Nom du bâtiment",
     "type": "Type",
     "city": "Ville",
     "square_mts": "Mètres carrés",
@@ -69,6 +69,7 @@
     "create_date": "Date de création",
     "create_by": "Créé par",
     "report": "Rapport",
+    "status":"Statut",
     "view_report": "Vue Rapport",
     "delete": "Effacér"
   },
@@ -220,7 +221,13 @@
     "tabhead5":"Chaleur Specifique(J/kg.K)",
     "tabhead6":"Valeur R(m2.K/W)",
     "ok":"OK",
-    "cancel":"Annuler"
+    "cancel":"Annuler",
+    "save":"Sauvegarder",
+    "name":"nom",
+    "conductance of glass":"Conductance du Verre",
+    "shading coefficient":"Coefficient d'Ombrage",
+    "visible transmission":"Transmission Visible",
+    "type of glass":"Type de Verre"
     
   },
   "create_project": {

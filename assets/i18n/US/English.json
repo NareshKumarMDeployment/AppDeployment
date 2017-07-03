@@ -60,8 +60,8 @@
   "dashboard": {
     "tablehead": "List Of Projects",
     "add_new": "Add New Project",
-    "org_name": "Organization Name",
-    "pro_name": "Project Name",
+    "org_name": "Project Name",
+    "pro_name": "Building Name",
     "type": "Type",
     "city": "City",
     "square_mts": "Square Mts",
@@ -69,6 +69,7 @@
     "create_date": "Creation Date",
     "create_by": "Created By",
     "report": "Report",
+    "status":"Status",
     "view_report": "View Report",
     "delete": "Delete"
   },
@@ -232,8 +233,8 @@
     "label5": "Exterior color (absorbent)",
     "label6": "Layers of construction",
     "label7": "New layer name",
-    "label8": "V-vlaue",
-    "label9": "(Layers of matrix ordered from outside to inside)",
+    "label8": "U-value",
+    "label9": "(Layers of materials ordered from outside to inside)",
     "tabhead1": "Material",
     "tabhead2": "Thickness(m)",
     "tabhead3": "Conductivity(W/m.K)",
@@ -242,7 +243,13 @@
     "tabhead6": "R Value(m2.K/W)",
     "ok": "OK",
     "cancel": "Cancel",
-    "defaultEdit": "Input Layers"
+    "defaultEdit": "Input Layers",
+    "save":"Save",
+    "name":"Name",
+    "conductance of glass":"Conductance of Glass",
+    "shading coefficient":"Shading Coefficient",
+    "visible transmission":"Visible Transmission",
+    "type of glass":"Type of Glass"
   },
   "HVACSystem_page": {
     "header": "HVAC System",
@@ -291,9 +298,10 @@
   },
   "newproject": {
     "savencont": "Save & Continue",
-    "save": "Save As",
+    "save_as": "Save As",
     "submit": "Submit",
-    "clear": "Clear"
+    "clear": "Clear",
+    "save":"Save"
   },
   "admin_page": {
     "header": "User Details",
