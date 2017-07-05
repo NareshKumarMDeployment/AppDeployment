@@ -72,7 +72,9 @@
     "status":"Status",
     "view_report": "View Report",
     "delete": "Delete",
-    "There are no projects yet" : "There are no projects yet"
+    "There are no projects yet" : "There are no projects yet",
+    "success":"Success",
+    "error":"Error"
   },
   "tree_view": {
     "title": "basic",
@@ -389,6 +391,7 @@
       "Hall" : "Hall",
       "Office": "Office",
       "Hall,Washroom,Staircase and " : "Hall,Washroom,Staircase and",
+      "Hall,Washroom,Staircase and" : "Hall,Washroom,Staircase and",
       "Hotel-room" : "Hotel-room",
       "Hospital-Patient Room" : "Hospital-Patient Room"
     }

@@ -72,7 +72,9 @@
     "status":"Statut",
     "view_report": "Vue Rapport",
     "delete": "Effacér",
-    "There are no projects yet" : "Il n'y a pas encore de projets"
+    "There are no projects yet" : "Il n'y a pas encore de projets",
+    "success":"Succès",
+    "error":"Erreur"
   },
   "tree_view": {
     "title": "de base",
