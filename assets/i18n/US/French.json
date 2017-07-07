@@ -74,7 +74,15 @@
     "delete": "Effacér",
     "There are no projects yet" : "Il n'y a pas encore de projets",
     "success":"Succès",
-    "error":"Erreur"
+    "error":"Erreur",
+    "delprojtitle":"Êtes-vous sûr?",
+    "delprojsubtitle":"Votre dossier de projet sera transféré à la corbeille!!",
+    "delprojcancel":"Annuler",
+    "delprojdelete":"Effacer",
+    "delcanceltitle":"Annulé",
+    "delcancelsubtitle":"Votre dossier de projet est sécurisé :)",
+    "delprojokey":"D'accord",
+    "deldeletetitle":"Projet supprimé"
   },
   "tree_view": {
     "title": "de base",
@@ -114,9 +122,9 @@
     "signup": "S'inscrire",
     "job_title": "Profession *",
     "company_name": "Compagnie *",
-    "address": "Adresse *",
-    "city": "Ville *",
-    "country": "Pays *"
+    "address": "Adresse",
+    "city": "Ville",
+    "country": "Pays"
   },
   "placeHolders": {
     "email": "É-mail ",
@@ -342,7 +350,35 @@
       "Wall Insulation-medium-2cm": "Mur Isolation-Milieu-2cm",
       "Wall Insulation-medium-4cm": "Mur Isolation-Milieu-4cm",
       "Wall Insulation-medium-6cm" : "Mur Isolation-Milieu-6cm",
-      "create":"Créer"
+      "create":"Créer",
+      "Polystyrene 2 cm":"Polystyrène 2 cm",
+      "Polystyrene 4 cm":"Polystyrène 4 cm",
+      "Polystyrene 6 cm":"Polystyrène 6 cm",
+      "Mineral wool R30":"Laine minérale R30",
+      "Earth(Sol)":"Terre (Sol)",
+      "HW Concrete 12":"HW Concret 12",
+      "Seal Connections 5":"Sceau connexions 5",
+      "Coatings 25":"Revêtements 25",
+      "Interior Coating 20":"Intérieur Revêtement 20",
+      "Concrete 100":"Cocnret 100",
+      "Reinforced concrete 50":"Béton armé 50",
+      "Brick 12":"Brique 12",
+      "Plaster brick 65":"Brique de plâtre 65",
+      "Hollow body terracotta":"Terre cuite creuse",
+      "Air Layer":"Couche d'air",
+      "Laying mortar 30":"Mortier de pose 30",
+      "Sand bed":"Lit de sable",
+      "Mosaic tiles":"Carreaux de mosaïque",
+      "Stones of tender size 4cm":"Pierres de taille tendre 4cm",
+      "Half hard stones 6cm":"Demi pierre dure 6cm",
+      "Hard stones(6cm)":"Pierres dures(6cm)",
+      "Tiles Mosaics ":"Carrelage Mosaïques",
+      "Hollow Earth body":"creux Terre corps ",
+      "Plaster Tiles":"Carreaux en plâtre",
+      "Asphalt Sealant":"Scellant d'asphalte",
+      "Waterproofing SP 4":"Imperméabilisation SP 4",
+      "Rubber Sealant":"Scellant en caoutchouc",
+      "Carpets,rugs":"Tapis, tapis"
     },
     "RoofTypes": {
       "Roof No Insulation": "Toit Pas d'Isolation",
@@ -406,6 +442,7 @@
     }
   },
   "defaultEditDropDown":{
-      "Input layers":"couches entrée"
+      "Input layers":"couches entrée",
+      "Input U value":"Valeur U entrée"
   }
 }

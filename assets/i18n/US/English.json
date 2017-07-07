@@ -74,7 +74,15 @@
     "delete": "Delete",
     "There are no projects yet" : "There are no projects yet",
     "success":"Success",
-    "error":"Error"
+    "error":"Error",
+    "delprojtitle":"Are you sure?",
+    "delprojsubtitle":"Your project file will be moved to trash!!",
+    "delprojcancel":"Cancel",
+    "delprojdelete":"Delete",
+    "delcanceltitle":"Cancelled",
+    "delcancelsubtitle":"Your project file is safe :)",
+    "delprojokey":"OK",
+    "deldeletetitle":"Project deleted"
   },
   "tree_view": {
     "title": "basic",
@@ -114,9 +122,9 @@
     "signup": "Sign up",
     "job_title": "Job Title *",
     "company_name": "Company *",
-    "address": "Address *",
-    "city": "City*",
-    "country": "Country  *"
+    "address": "Address",
+    "city": "City",
+    "country": "Country"
   },
   "placeHolders": {
     "email": "Email",
@@ -343,7 +351,35 @@
       "Wall Insulation-medium-2cm": "Wall Insulation-medium-2cm",
       "Wall Insulation-medium-4cm": "Wall Insulation-medium-4cm",
       "Wall Insulation-medium-6cm" : "Wall Insulation-medium-6cm",
-      "create":"Create"
+      "create":"Create",
+      "Polystyrene 2 cm":"Polystyrene 2 cm",
+      "Polystyrene 4 cm":"Polystyrene 4 cm",
+      "Polystyrene 6 cm":"Polystyrene 6 cm",
+      "Mineral wool R30":"Mineral wool R30",
+      "Earth(Soil)":"Earth(Soil)",
+      "HW Concrete 12":"HW Concrete 12",
+      "Seal Connections 5":"Seal Connections 5",
+      "Coatings 25":"Coatings 25",
+      "Interior Coating 20":"Interior Coating 20",
+      "Concrete 100":"Concrete 100",
+      "Reinforced concrete 50":"Reinforced concrete 50",
+      "Brick 12":"Brick 12",
+      "Plaster brick 65":"Plaster brick 65",
+      "Hollow body terracotta":"Hollow body terracotta",
+      "Air Layer":"Air Layer",
+      "Laying mortar 30":"Laying mortar 30",
+      "Sand bed":"Sand bed",
+      "Mosaic tiles":"Mosaic tiles",
+      "Stones of tender size 4cm":"Stones of tender size 4cm",
+      "Half hard stones 6cm":"Half hard stones 6cm",
+      "Hard stones(6cm)":"Hard stones(6cm",
+      "Tiles Mosaics ":"Tiles Mosaics",
+      "Hollow Earth body":"Hollow Earth body ",
+      "Plaster Tiles":"Plaster Tiles",
+      "Asphalt Sealant":"Asphalt Sealant",
+      "Waterproofing SP 4":"Waterproofing SP 4",
+      "Rubber Sealant":"Rubber Sealant",
+      "Carpets,rugs":"Carpets,rugs"
     },
     "RoofTypes": {
       "Roof No Insulation": "Roof No Insulation",
@@ -406,6 +442,7 @@
     }
   },
   "defaultEditDropDown":{
-      "Input layers":"Input layers"
+      "Input layers":"Input layers",
+      "Input U value":"Input U value"
   }
 }
