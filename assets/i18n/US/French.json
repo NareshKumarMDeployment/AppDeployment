@@ -1,10 +1,10 @@
 {
   "login": {
-    "title": "S'il vous plaît Connectez-vous",
-    "signup_link": "ñ'avez pas de compte? S'inscrire",
+    "title": "S’il vous plaît Connectez-vous",
+    "signup_link": "ñ’avez pas de compte? S’inscrire",
     "email": "É-mail ",
     "password": "Mot de passe",
-    "sign_in": "S'identifier",
+    "sign_in": "S’identifier",
     "forgot_password": "Mot de passe oublié?",
     "sign_from_app_text": "ou Connectez-vous avec un seul clic",
     "share_on_facebook": "Partager sur Facebook",
@@ -82,7 +82,8 @@
     "delcanceltitle":"Annulé",
     "delcancelsubtitle":"Votre dossier de projet est sécurisé :)",
     "delprojokey":"D'accord",
-    "deldeletetitle":"Projet supprimé"
+    "deldeletetitle":"Projet supprimé",
+    "name_valid":"Entrez le nom du projet"
   },
   "tree_view": {
     "title": "de base",
@@ -231,7 +232,7 @@
     "tabhead4":"Densité(kg/m3)",
     "tabhead5":"Chaleur Specifique(J/kg.K)",
     "tabhead6":"Valeur R(m2.K/W)",
-    "ok":"OK",
+    "ok":"D'accord",
     "cancel":"Annuler",
     "save":"Sauvegarder",
     "name":"nom",
@@ -311,7 +312,9 @@
     "save_as": "Sauvegarder  Sous",
     "submit": "Soumettre",
     "clear": "Clair",
-    "save":"Sauvegarder"
+    "save":"Sauvegarder",
+    "report_error":"Le rapport de simulation n'a pas pu être généré. Vérifiez vos intrants.",
+    "report_wait":"Veuillez patienter ... un rapport de simulation est généré."
   },
   "admin_page": {
     "header": "Détails de l'utilisateur",
@@ -340,7 +343,7 @@
   },
   "envelop": {
     "ConstructionTypes": {
-      "Wall No Insulation": "Mur Pas d'Isolation",
+      "Wall No Insulation": "Mur Pas d’Isolation",
       "Wall Insulation-Exterior-2cm": "Mur Isolation-Extérieure-2cm",
       "Wall Insulation-Exterior-4cm": "Mur Isolation-Extérieure-4cm",
       "Wall Insulation-Exterior-6cm": "Mur Isolation-Extérieure-6cm",
@@ -350,38 +353,39 @@
       "Wall Insulation-medium-2cm": "Mur Isolation-Milieu-2cm",
       "Wall Insulation-medium-4cm": "Mur Isolation-Milieu-4cm",
       "Wall Insulation-medium-6cm" : "Mur Isolation-Milieu-6cm",
-      "create":"Créer",
-      "Polystyrene 2 cm":"Polystyrène 2 cm",
-      "Polystyrene 4 cm":"Polystyrène 4 cm",
-      "Polystyrene 6 cm":"Polystyrène 6 cm",
+      "Create":"Créer",
+      "Polystyrene 2cm":"Polystyrène 2 cm",
+      "Polystyrene 4cm":"Polystyrène 4 cm",
+      "Polystyrene 6cm":"Polystyrène 6 cm",
       "Mineral wool R30":"Laine minérale R30",
       "Earth(Sol)":"Terre (Sol)",
       "HW Concrete 12":"HW Concret 12",
-      "Seal Connections 5":"Sceau connexions 5",
+      "seal connections5":"Sceau connexions 5",
       "Coatings 25":"Revêtements 25",
       "Interior Coating 20":"Intérieur Revêtement 20",
       "Concrete 100":"Cocnret 100",
       "Reinforced concrete 50":"Béton armé 50",
       "Brick 12":"Brique 12",
       "Plaster brick 65":"Brique de plâtre 65",
-      "Hollow body terracotta":"Terre cuite creuse",
+      "Hollow Body Terracotta":"Terre cuite creuse",
       "Air Layer":"Couche d'air",
       "Laying mortar 30":"Mortier de pose 30",
       "Sand bed":"Lit de sable",
       "Mosaic tiles":"Carreaux de mosaïque",
-      "Stones of tender size 4cm":"Pierres de taille tendre 4cm",
-      "Half hard stones 6cm":"Demi pierre dure 6cm",
-      "Hard stones(6cm)":"Pierres dures(6cm)",
-      "Tiles Mosaics ":"Carrelage Mosaïques",
-      "Hollow Earth body":"creux Terre corps ",
+      "Stones of Tender Size 4cm":"Pierres de taille tendre 4cm",
+      "Half-Hard Stones 6cm":"Demi pierre dure 6cm",
+      "Hard Stones(6cm)":"Pierres dures(6cm)",
+      "Tiles Mosaics":"Carrelage Mosaïques",
+      "Hollow Earth Body":"creux Terre corps ",
+      "Hollow Body of Marble":"Corps creux de marbre",
       "Plaster Tiles":"Carreaux en plâtre",
       "Asphalt Sealant":"Scellant d'asphalte",
-      "Waterproofing SP 4":"Imperméabilisation SP 4",
+      "Waterproofing SP4":"Imperméabilisation SP 4",
       "Rubber Sealant":"Scellant en caoutchouc",
-      "Carpets,rugs":"Tapis, tapis"
+      "Carpet,rug":"Tapis, tapis"
     },
     "RoofTypes": {
-      "Roof No Insulation": "Toit Pas d'Isolation",
+      "Roof No Insulation": "Toit Pas d’Isolation",
       "Roof Insulation-Exterior-2cm": "Toit Isolation-Extérieure-2cm",
       "Roof Insulation-Exterior-4cm": "Toit Isolation-Extérieure-4cm",
       "Roof Insulation-Exterior-6cm": "Toit Isolation-Extérieure-6cm",
@@ -404,7 +408,9 @@
       "Single low-e": "Simple faible-e",
       "Double Clear": "Double Claire",
       "Double Bronze": "Double Bronze",
-      "Double low-e": "Double faible-e"
+      "Double low-e": "Double faible-e",
+      "create":"Créer",
+      "No selection":"Pas de Selection"
     },
     "SkyLight": {
       "No": "Aucun",
@@ -444,5 +450,19 @@
   "defaultEditDropDown":{
       "Input layers":"couches entrée",
       "Input U value":"Valeur U entrée"
+  },
+  "table_create":{
+    "product_name":"Nom du Produit",
+    "work_type":"Type d'ouvrage",
+    "hardware_properties":"Propriétés matérielles",
+    "thickness":"épaisseur",
+    "conductivity":"Conductivité",
+    "density":"densité",
+    "specific_heat":"chaleur spécifique",
+    "resistance":"La résistance"
+  },
+  "worktype":{
+    "Properties":"Propriétés",
+    "Resistance":"La résistance"
   }
 }

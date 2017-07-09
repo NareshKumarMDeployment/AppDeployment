@@ -82,7 +82,8 @@
     "delcanceltitle":"Cancelled",
     "delcancelsubtitle":"Your project file is safe :)",
     "delprojokey":"OK",
-    "deldeletetitle":"Project deleted"
+    "deldeletetitle":"Project deleted",
+    "name_valid":"Please enter the project name"
   },
   "tree_view": {
     "title": "basic",
@@ -312,7 +313,9 @@
     "save_as": "Save As",
     "submit": "Submit",
     "clear": "Clear",
-    "save":"Save"
+    "save":"Save",
+    "report_error":"Simulation report could not be generated. Please verify your input.",
+    "report_wait":"Please wait... simulation report is being generated"
   },
   "admin_page": {
     "header": "User Details",
@@ -352,34 +355,36 @@
       "Wall Insulation-medium-4cm": "Wall Insulation-medium-4cm",
       "Wall Insulation-medium-6cm" : "Wall Insulation-medium-6cm",
       "create":"Create",
-      "Polystyrene 2 cm":"Polystyrene 2 cm",
-      "Polystyrene 4 cm":"Polystyrene 4 cm",
-      "Polystyrene 6 cm":"Polystyrene 6 cm",
+      "Create":"Create",
+      "Polystyrene 2cm":"Polystyrene 2cm",
+      "Polystyrene 4cm":"Polystyrene 4 cm",
+      "Polystyrene 6cm":"Polystyrene 6 cm",
       "Mineral wool R30":"Mineral wool R30",
       "Earth(Soil)":"Earth(Soil)",
       "HW Concrete 12":"HW Concrete 12",
-      "Seal Connections 5":"Seal Connections 5",
+      "seal connections 5":"Seal Connections 5",
       "Coatings 25":"Coatings 25",
       "Interior Coating 20":"Interior Coating 20",
       "Concrete 100":"Concrete 100",
       "Reinforced concrete 50":"Reinforced concrete 50",
       "Brick 12":"Brick 12",
       "Plaster brick 65":"Plaster brick 65",
-      "Hollow body terracotta":"Hollow body terracotta",
+      "Hollow Body Terracotta":"Hollow body terracotta",
       "Air Layer":"Air Layer",
       "Laying mortar 30":"Laying mortar 30",
       "Sand bed":"Sand bed",
       "Mosaic tiles":"Mosaic tiles",
-      "Stones of tender size 4cm":"Stones of tender size 4cm",
-      "Half hard stones 6cm":"Half hard stones 6cm",
-      "Hard stones(6cm)":"Hard stones(6cm",
-      "Tiles Mosaics ":"Tiles Mosaics",
-      "Hollow Earth body":"Hollow Earth body ",
+      "Stones of Tender Size 4cm":"Stones of tender size 4cm",
+      "Half-Hard Stones 6cm":"Half hard stones 6cm",
+      "Hard Stones(6cm)":"Hard stones(6cm",
+      "Tiles Mosaics":"Tiles Mosaics",
+      "Hollow Earth Body":"Hollow Earth body ",
+      "Hollow Body of Marble":"Hollow Body of Marble",
       "Plaster Tiles":"Plaster Tiles",
       "Asphalt Sealant":"Asphalt Sealant",
-      "Waterproofing SP 4":"Waterproofing SP 4",
+      "Waterproofing SP4":"Waterproofing SP 4",
       "Rubber Sealant":"Rubber Sealant",
-      "Carpets,rugs":"Carpets,rugs"
+      "Carpet,rug":"Carpets,rugs"
     },
     "RoofTypes": {
       "Roof No Insulation": "Roof No Insulation",
@@ -405,7 +410,9 @@
       "Single low-e": "Single Low-e",
       "Double Clear": "Double Clear",
       "Double Bronze": "Double Bronze",
-      "Double low-e": "Double Low-e"
+      "Double low-e": "Double Low-e",
+      "create":"create",
+      "No selection":"No selection"
     },
     "SkyLight": {
       "No": "No",
@@ -444,5 +451,20 @@
   "defaultEditDropDown":{
       "Input layers":"Input layers",
       "Input U value":"Input U value"
+  },
+  "table_create":{
+    "product_name":"Product Name",
+    "work_type":"Type of work",
+    "hardware_properties":"Hardware properties",
+    "thickness":"Thickness",
+    "conductivity":"Conductivity",
+    "density":"Density",
+    "specific_heat":"specific heat",
+    "resistance":"Resistance"
+  },
+  "worktype":{
+    "Properties":"Properties",
+    "Resistance":"Resistance"
   }
+
 }
