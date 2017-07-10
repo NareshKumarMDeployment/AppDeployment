@@ -315,7 +315,8 @@
     "clear": "Clear",
     "save":"Save",
     "report_error":"Simulation report could not be generated. Please verify your input.",
-    "report_wait":"Please wait... simulation report is being generated"
+    "report_wait":"Please wait... simulation report is being generated",
+    "wait_error":"Something went wrong... Please check your internet connecton."
   },
   "admin_page": {
     "header": "User Details",

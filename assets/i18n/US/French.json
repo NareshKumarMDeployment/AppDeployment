@@ -314,7 +314,8 @@
     "clear": "Clair",
     "save":"Sauvegarder",
     "report_error":"Le rapport de simulation n'a pas pu être généré. Vérifiez vos intrants.",
-    "report_wait":"Veuillez patienter... Un rapport de simulation est généré."
+    "report_wait":"Veuillez patienter... Un rapport de simulation est généré.",
+    "wait_error":"Quelque chose s'est mal passé ... Veuillez vérifier votre connexion Internet."
   },
   "admin_page": {
     "header": "Détails de l'utilisateur",
