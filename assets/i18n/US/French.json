@@ -288,8 +288,8 @@
     "hexagon": "Hexagone",
     "octagon": "Octogone",
     "decagon": "Décagone",
-    "dodecagon": " Dodécagone",
-    "hexadecagon": " Hexadécagone",
+    "dodecagon": "Dodécagone",
+    "hexadecagon": "Hexadécagone",
     "octadecagon": "Octadécagone"
   },
   "space_tab": {
@@ -434,8 +434,11 @@
       "Hall" : "Hall",
       "Office": "Bureau",
       "Hall,Washroom,Staircase and " : "Hall, Salle de toilettes, Escalier and",
+      "Hall,Washroom,Staircase and  " : "Hall, Salle de toilettes, Escalier and",
       "Hotel-room" : "Hôtel-Chambre",
-      "Hospital-Patient Room" : "Hôpital-Chambre de patient"
+      "Hospital-Patient Room" : "Hôpital-Chambre de patient",
+      "":"",
+      " ":""
     }
   },
   "HVACSystem": {
